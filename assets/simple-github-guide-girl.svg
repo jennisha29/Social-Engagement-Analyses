@@ -1,0 +1,92 @@
+<svg width="1100" height="420" viewBox="0 0 1100 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Simple animated girl explaining GitHub</title>
+  <desc id="desc">A simple animated girl pointing to a GitHub profile board with data engineering highlights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#172554"/>
+      <stop offset="1" stop-color="#581C87"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="455" y1="80" x2="1010" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1100" height="420" rx="30" fill="url(#bg)"/>
+
+  <g opacity="0.35">
+    <circle cx="92" cy="72" r="2" fill="#E0F2FE">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1010" cy="86" r="2.5" fill="#F5D0FE">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="365" r="2" fill="#BAE6FD">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g filter="url(#glow)">
+    <rect x="455" y="70" width="580" height="275" rx="24" fill="url(#panel)" stroke="#38BDF8" stroke-width="2"/>
+    <text x="745" y="116" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900" text-anchor="middle">Hi, welcome to my GitHub!</text>
+    <text x="745" y="151" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle">I build data pipelines, dashboards, and AI workflows.</text>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">
+      <rect x="505" y="188" width="220" height="44" rx="14" fill="#0F172A" stroke="#38BDF8"/>
+      <text x="535" y="216" fill="#E0F2FE">⚙️ Data Engineering</text>
+      <rect x="765" y="188" width="220" height="44" rx="14" fill="#0F172A" stroke="#A78BFA"/>
+      <text x="795" y="216" fill="#EDE9FE">📊 BI Analytics</text>
+      <rect x="505" y="252" width="220" height="44" rx="14" fill="#0F172A" stroke="#F472B6"/>
+      <text x="535" y="280" fill="#FCE7F3">🤖 Applied AI</text>
+      <rect x="765" y="252" width="220" height="44" rx="14" fill="#0F172A" stroke="#22D3EE"/>
+      <text x="795" y="280" fill="#CFFAFE">☁️ Cloud Platforms</text>
+    </g>
+
+    <path d="M505 322 H985" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 18">
+      <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g transform="translate(170 88)">
+    <ellipse cx="120" cy="290" rx="122" ry="24" fill="#020617" opacity="0.35"/>
+
+    <path d="M114 138 C73 170 55 232 42 314 H198 C186 230 164 172 126 138 Z" fill="#2563EB"/>
+    <path d="M76 178 C42 216 28 270 24 326" stroke="#60A5FA" stroke-width="20" stroke-linecap="round"/>
+    <path d="M162 178 C208 192 244 206 284 232" stroke="#60A5FA" stroke-width="20" stroke-linecap="round">
+      <animate attributeName="d" values="M162 178 C208 192 244 206 284 232;M162 178 C210 182 250 190 292 212;M162 178 C208 192 244 206 284 232" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="120" cy="88" r="54" fill="#A16207" stroke="#FDE68A" stroke-width="3"/>
+    <path d="M72 82 C82 20 158 18 172 82 C150 60 96 60 72 82Z" fill="#111827"/>
+    <path d="M70 86 C56 126 78 164 96 178 C104 146 140 146 150 178 C174 152 180 112 166 84 C144 108 96 108 70 86Z" fill="#111827"/>
+    <circle cx="102" cy="88" r="4" fill="#020617"/>
+    <circle cx="138" cy="88" r="4" fill="#020617"/>
+    <path d="M104 112 C114 122 128 122 138 112" stroke="#451A03" stroke-width="3" stroke-linecap="round"/>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+      <text x="120" y="220" fill="#FFFFFF" font-size="24" font-weight="900">Jennisha</text>
+      <text x="120" y="246" fill="#BAE6FD" font-size="14" font-weight="700">Data + AI Builder</text>
+    </g>
+
+    <g filter="url(#glow)">
+      <circle cx="294" cy="212" r="14" fill="#38BDF8">
+        <animate attributeName="r" values="10;16;10" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="294" y="218" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">👋</text>
+    </g>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" filter="url(#glow)">
+    <text x="550" y="385" fill="#F8FAFC" font-size="18" font-weight="800">
+      Explore my projects, skills, achievements, and data engineering journey.
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

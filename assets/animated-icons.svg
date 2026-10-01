@@ -1,0 +1,73 @@
+<svg width="1000" height="190" viewBox="0 0 1000 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated technology icons</title>
+  <desc id="desc">Animated technology icons representing Python, SQL, AWS, Snowflake, Airflow, Spark, dashboards, and AI.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="190" rx="28" fill="url(#card)"/>
+  <path d="M45 145H955" stroke="#334155" stroke-width="2" stroke-dasharray="8 12">
+    <animate attributeName="stroke-dashoffset" from="0" to="-80" dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" filter="url(#glow)">
+    <g transform="translate(100 84)">
+      <circle r="42" fill="#172554" stroke="#60A5FA" stroke-width="2"/>
+      <text y="8" font-size="34">🐍</text>
+      <text y="68" fill="#DBEAFE" font-size="14" font-weight="700">Python</text>
+      <animateTransform attributeName="transform" type="translate" values="100 84;100 72;100 84" dur="2.8s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(214 84)">
+      <circle r="42" fill="#164E63" stroke="#22D3EE" stroke-width="2"/>
+      <text y="8" font-size="34">🗄️</text>
+      <text y="68" fill="#CFFAFE" font-size="14" font-weight="700">SQL</text>
+      <animateTransform attributeName="transform" type="translate" values="214 84;214 96;214 84" dur="3s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(328 84)">
+      <circle r="42" fill="#431407" stroke="#FB923C" stroke-width="2"/>
+      <text y="8" font-size="34">☁️</text>
+      <text y="68" fill="#FED7AA" font-size="14" font-weight="700">AWS</text>
+      <animateTransform attributeName="transform" type="translate" values="328 84;328 72;328 84" dur="3.2s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(442 84)">
+      <circle r="42" fill="#0C4A6E" stroke="#7DD3FC" stroke-width="2"/>
+      <text y="8" font-size="34">❄️</text>
+      <text y="68" fill="#E0F2FE" font-size="14" font-weight="700">Snowflake</text>
+      <animateTransform attributeName="transform" type="translate" values="442 84;442 96;442 84" dur="2.9s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(556 84)">
+      <circle r="42" fill="#052E16" stroke="#4ADE80" stroke-width="2"/>
+      <text y="8" font-size="34">🌀</text>
+      <text y="68" fill="#DCFCE7" font-size="14" font-weight="700">Airflow</text>
+      <animateTransform attributeName="transform" type="translate" values="556 84;556 72;556 84" dur="3.1s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(670 84)">
+      <circle r="42" fill="#450A0A" stroke="#F87171" stroke-width="2"/>
+      <text y="8" font-size="34">⚡</text>
+      <text y="68" fill="#FEE2E2" font-size="14" font-weight="700">Spark</text>
+      <animateTransform attributeName="transform" type="translate" values="670 84;670 96;670 84" dur="3.3s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(784 84)">
+      <circle r="42" fill="#422006" stroke="#FACC15" stroke-width="2"/>
+      <text y="8" font-size="34">📊</text>
+      <text y="68" fill="#FEF3C7" font-size="14" font-weight="700">BI</text>
+      <animateTransform attributeName="transform" type="translate" values="784 84;784 72;784 84" dur="3s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(898 84)">
+      <circle r="42" fill="#4C1D95" stroke="#C084FC" stroke-width="2"/>
+      <text y="8" font-size="34">🤖</text>
+      <text y="68" fill="#F3E8FF" font-size="14" font-weight="700">AI</text>
+      <animateTransform attributeName="transform" type="translate" values="898 84;898 96;898 84" dur="2.7s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

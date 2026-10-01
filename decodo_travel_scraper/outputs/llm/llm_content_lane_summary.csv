@@ -1,0 +1,9 @@
+llm_content_lane,llm_emotional_frame,post_count,avg_platform_percentile,avg_total_engagements,avg_clarity,avg_shareability,avg_risk,avg_visual
+app_education,,1,78.1,24.0,5.0,4.0,1.0,5.0
+brand_value,,6,68.4,21.0,4.5,3.7,2.2,5.0
+community_prompt,,5,69.8,22.2,3.8,4.0,1.6,5.0
+company_callout,,12,67.0,25.3,4.2,3.2,2.7,4.2
+issue_breakdown,,28,49.9,17.9,4.3,3.0,3.2,2.6
+news_reaction,,1,70.8,16.0,5.0,3.0,1.0,1.0
+other,,25,51.5,14.8,3.2,2.8,1.9,4.2
+politician_issue_card,,34,42.6,13.9,4.8,3.3,3.5,2.8

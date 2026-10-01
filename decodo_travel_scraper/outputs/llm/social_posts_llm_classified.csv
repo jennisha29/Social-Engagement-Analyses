@@ -1,0 +1,1703 @@
+platform,author_handle,post_url,post_id,threads_internal_id,published_at,post_text,likes,comments,replies,shares,reposts,quotes,image_url,media_type,scraped_at,total_engagements,platform_percentile,data_quality,llm_prompt_version,llm_model,llm_classified_at,llm_content_lane,llm_topic,llm_emotional_frame,llm_audience,llm_cta_type,llm_clarity_score,llm_shareability_score,llm_risk_score,llm_visual_score,llm_summary,llm_failure_reason,llm_repurpose_recommendation,llm_confidence,llm_raw_llm_json
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mwojirmlmw27,3mwojirmlmw27,,2026-09-29T19:05:25.381770+00:00,"BREAKING: Reid Hoffman gave $10,000,000 on June 30 to Lone Star Rising PAC, a Democratic super PAC backing James Talarico. See where LinkedIn's money goes at https://goodsuniteus.com/company/-LX7m62fCQSl_Pz_-jJT",2,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:36:24.608046+00:00,politician_issue_card,politics,informational,politically_engaged,link_in_bio,5,3,4,1,Breaking news about Reid Hoffman's donation to a Democratic super PAC,None,Consider sharing on other platforms to reach a broader audience,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Breaking news about Reid Hoffman's donation to a Democratic super PAC"",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms to reach a broader audience"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mwmt6su6dj2y,3mwmt6su6dj2y,,2026-09-29T02:53:29.074725+00:00,"BREAKING: Michael Bloomberg gave $2,500,000 on July 28 to 314 Action Fund, a Democratic hybrid PAC. See where Bloomberg LP's money goes at https://goodsuniteus.com/company/-LX7m5zrQEQQ4WjIOkQz",0,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,0,6.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:36:30.921669+00:00,politician_issue_card,politics,informational,politically_engaged,link_in_bio,5,2,4,1,Breaking news about Michael Bloomberg's donation to 314 Action Fund,None,Consider sharing on other platforms for broader reach,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 2,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Breaking news about Michael Bloomberg's donation to 314 Action Fund"",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms for broader reach"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mwlitovds522,3mwlitovds522,,2026-09-28T14:15:38.662924+00:00,See how Johnson & Johnson feels about Raising Minimum Wage. Download the free app to see more. https://www.goodsuniteus.com/issues/-LX7m60z84aRskXqzjsL,0,,0,,0,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreifl4xkx7ezlcchah7j43s76eqnzra5hf7344qvasxpp3ee7vws6dm,image,2026-09-29T23:03:24.976337+00:00,0,6.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:36:37.620039+00:00,issue_breakdown,politics/economy,informational,politically_engaged,link_in_bio,4,3,2,5,"Post about Johnson & Johnson's stance on raising minimum wage, with a link to learn more.",Unclear,Consider adding more context or a clear call-to-action to increase engagement.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics/economy"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Post about Johnson & Johnson's stance on raising minimum wage, with a link to learn more."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding more context or a clear call-to-action to increase engagement."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mwdxg7ybu627,3mwdxg7ybu627,,2026-09-25T14:15:15.047667+00:00,See where Jon Ossoff stands on LGBTQ Rights. Download the free app to see more. https://www.goodsuniteus.com/politician/-LaTXI9KG9AvhyNOFzGZ,0,,0,,0,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreihfikbir5ii2aswr54p7jsccaqvuudtvgyp2ivxl6sd446ahggiwm,image,2026-09-29T23:03:24.976337+00:00,0,6.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:36:44.074517+00:00,politician_issue_card,politics,informational,politically_engaged,link_in_bio,5,3,4,5,"Post about a politician's stance on LGBTQ Rights, with a link to a website for more information.",None,Consider sharing on other platforms to reach a broader audience.,1,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""Post about a politician's stance on LGBTQ Rights, with a link to a website for more information."",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms to reach a broader audience."",
+  ""confidence"": 1.0
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mw4ysbkoak2l,3mw4ysbkoak2l,,2026-09-22T19:51:14.919353+00:00,"BREAKING: Marc Andreessen gave $3,167 to First in Freedom PAC, a Republican leadership PAC. See where Coinbase's money goes at https://goodsuniteus.com/company/-NM06cWJmHPrw77a-vSP",4,,0,,3,0,,text,2026-09-29T23:03:24.976337+00:00,7,55.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:36:50.883473+00:00,issue_breakdown,politics,informational,politically_engaged,link_in_bio,5,4,3,1,"Post about a political donation from Marc Andreessen to a Republican leadership PAC, with a link to a breakdown of Coinbase's donations.",,Consider sharing on other platforms to reach a broader audience.,0.9,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 1,
+  ""summary"": ""Post about a political donation from Marc Andreessen to a Republican leadership PAC, with a link to a breakdown of Coinbase's donations."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms to reach a broader audience."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mvzvkonbee2a,3mvzvkonbee2a,,2026-09-21T14:15:19.760533+00:00,See how Procter & Gamble feels about Environment Regulations & Renewable Energy Spending. Download the free app to see more. https://www.goodsuniteus.com/issues/-LX7m60rvJvllJn9yJL6,3,,0,,0,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreidgowgx7psqe6js6n3qherjnskb7yc56j46fo4ibs5nmtw3fi6xou,image,2026-09-29T23:03:24.976337+00:00,3,38.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:36:57.721617+00:00,issue_breakdown,environmental regulation,informational,politically_engaged,link_in_bio,4,2,3,1,"A post about Procter & Gamble's stance on environmental regulations and renewable energy spending, with a link to a related issue.",Unclear audience,Consider adding more context or visuals to make the post more engaging,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""environmental regulation"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 2,
+  ""risk_score"": 3,
+  ""visual_score"": 1,
+  ""summary"": ""A post about Procter & Gamble's stance on environmental regulations and renewable energy spending, with a link to a related issue."",
+  ""failure_reason"": ""Unclear audience"",
+  ""repurpose_recommendation"": ""Consider adding more context or visuals to make the post more engaging"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mvt2ytsvmo2a,3mvt2ytsvmo2a,,2026-09-18T21:04:05.489468+00:00,"BREAKING: Miriam Adelson gave $7,000 to South Dakota Values PAC, a Republican super PAC backing Marty Jackley. See where Las Vegas Sands' money goes at https://goodsuniteus.com/company/-LX7m61mjZOYoQ81MALc",1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:37:03.913552+00:00,issue_breakdown,politics,informational,politically_engaged,link_in_bio,5,3,4,1,Breaking news about a political donation to a Republican super PAC.,,"Consider breaking down the donation into smaller, more digestible chunks for easier understanding.",0.9,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Breaking news about a political donation to a Republican super PAC."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider breaking down the donation into smaller, more digestible chunks for easier understanding."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mvspqrl3lz26,3mvspqrl3lz26,,2026-09-18T17:42:43.541166+00:00,See where Laura Gillen stands on Gun Control. Download the free app to see more. https://www.goodsuniteus.com/politician/-Oqo8_BMQ-4gKftoniGA,1,,0,,1,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreicrzttfwnlludbievfofdfam6gbxwgr7ht7asxkknt4y67t4uwa5u,image,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:37:09.891824+00:00,politician_issue_card,gun_control,informational,politically_engaged,link_in_bio,5,3,4,5,Post about politician's stance on gun control with link to app,None,Consider sharing on other platforms to reach broader audience,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""gun_control"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""Post about politician's stance on gun control with link to app"",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms to reach broader audience"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mvivjaf7aw2a,3mvivjaf7aw2a,,2026-09-14T19:59:15.708960+00:00,See how Progressive feels about Abortion & Reproductive Rights. https://www.goodsuniteus.com/issues/-LX7m60_y5uDkDSt5eaK,4,,0,,0,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreifjsdig2xtm7u5vfkl7azzekv6o7rteg2bcorjh5jv52xjblyqmnm,image,2026-09-29T23:03:24.976337+00:00,5,45.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:37:16.163104+00:00,politician_issue_card,abortion and reproductive rights,informational,politically_engaged,link_in_bio,5,3,4,5,"A politician's stance on abortion and reproductive rights, with a link to learn more.",none,consider sharing on other platforms to reach a broader audience,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""abortion and reproductive rights"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""A politician's stance on abortion and reproductive rights, with a link to learn more."",
+  ""failure_reason"": ""none"",
+  ""repurpose_recommendation"": ""consider sharing on other platforms to reach a broader audience"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mviccrfs6y2a,3mviccrfs6y2a,,2026-09-14T14:15:37.580389+00:00,See how Progressive feels about Education Spending. https://www.goodsuniteus.com/issues/-LX7m60_y5uDkDSt5eaK,3,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,3,38.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:37:22.364539+00:00,issue_breakdown,education,informational,politically_engaged,link_in_bio,5,3,4,1,"A post sharing a link to an issue page about education spending, from a progressive perspective.",Unclear audience engagement metrics.,Consider adding a visual element to increase shareability.,0.9,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""education"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""A post sharing a link to an issue page about education spending, from a progressive perspective."",
+  ""failure_reason"": ""Unclear audience engagement metrics."",
+  ""repurpose_recommendation"": ""Consider adding a visual element to increase shareability."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mvaqvyuz4r24,3mvaqvyuz4r24,,2026-09-11T14:15:37.432604+00:00,See where Dave Min stands on Gun Control. https://www.goodsuniteus.com/politician/-OPaZpIw13RWCgPeUFg9,1,,0,,1,0,,text,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:37:28.610106+00:00,politician_issue_card,gun_control,informational,politically_engaged,link_in_bio,5,3,4,1,Post about a politician's stance on gun control with a link to more information,none,consider adding a visual element to make the post more engaging,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""gun_control"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Post about a politician's stance on gun control with a link to more information"",
+  ""failure_reason"": ""none"",
+  ""repurpose_recommendation"": ""consider adding a visual element to make the post more engaging"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3muwozmighy2g,3muwozmighy2g,,2026-09-07T14:15:13.788948+00:00,See how Home Depot feels about Israel. https://www.goodsuniteus.com/issues/-LX7m60Xx_Z9DLMVvGUl,1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:37:36.364446+00:00,issue_breakdown,politics,accountability,politically_engaged,link_in_bio,4,3,4,1,"Post linking to an article about Home Depot's stance on Israel, targeting politically engaged audience.",Unclear why Home Depot's stance on Israel is relevant or newsworthy.,Consider adding context or a brief summary to make the post more engaging and clear.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Post linking to an article about Home Depot's stance on Israel, targeting politically engaged audience."",
+  ""failure_reason"": ""Unclear why Home Depot's stance on Israel is relevant or newsworthy."",
+  ""repurpose_recommendation"": ""Consider adding context or a brief summary to make the post more engaging and clear."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mup5n7x4ni2x,3mup5n7x4ni2x,,2026-09-04T14:15:26.202448+00:00,See where Yevgeny Vindman stands on Social Security & Medicare Expansion. https://www.goodsuniteus.com/politician/-OPaZmwdWxh7FZ65ZnQG,0,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,0,6.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:37:43.416167+00:00,politician_issue_card,politics,informational,politically_engaged,link_in_bio,5,2,3,1,Post about a politician's stance on Social Security and Medicare expansion with a link to learn more.,None,Consider adding a visual element to make the post more engaging.,1,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 2,
+  ""risk_score"": 3,
+  ""visual_score"": 1,
+  ""summary"": ""Post about a politician's stance on Social Security and Medicare expansion with a link to learn more."",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to make the post more engaging."",
+  ""confidence"": 1.0
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3muf3reo63p2y,3muf3reo63p2y,,2026-08-31T14:15:20.504175+00:00,See how Airbnb feels about Israel. https://www.goodsuniteus.com/issues/-LX7m6-RxniAGUnR3R1m,1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:37:51.005942+00:00,issue_breakdown,politics,accountability,politically_engaged,link_in_bio,4,3,4,1,"A user shares a link to an article about Airbnb's stance on Israel, aiming to hold the company accountable.",Unclear,Consider adding a visual element to make the post more engaging.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""A user shares a link to an article about Airbnb's stance on Israel, aiming to hold the company accountable."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to make the post more engaging."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mu5kesjer722,3mu5kesjer722,,2026-08-28T14:15:27.039507+00:00,See where Janelle Bynum stands on Gun Control. https://www.goodsuniteus.com/politician/-ONWYIJDhUOB44Kc_qkI,0,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,0,6.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:37:57.639295+00:00,politician_issue_card,gun_control,informational,politically_engaged,link_in_bio,5,3,4,1,Post linking to a politician's stance on gun control,None,Consider adding a visual element to enhance engagement,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""gun_control"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Post linking to a politician's stance on gun control"",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to enhance engagement"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mttliir2ei23,3mttliir2ei23,,2026-08-24T15:08:47.378227+00:00,See where DELIA RAMIREZ stands on Gun Control. https://www.goodsuniteus.com/politician/-ODbZYsKB5qNrW4CmjxT,1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:38:04.140579+00:00,politician_issue_card,gun_control,informational,politically_engaged,link_in_bio,5,3,4,1,Post linking to a politician's stance on gun control,None,Consider adding a visual element to enhance engagement,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""gun_control"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Post linking to a politician's stance on gun control"",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to enhance engagement"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mttlifhqaq23,3mttlifhqaq23,,2026-08-24T15:08:43.926703+00:00,See how Adobe Systems feels about Social Security & Medicare Expansion. https://www.goodsuniteus.com/issues/-LX7m6-GWnjnsRXsZ93Z,3,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,3,38.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:38:11.060372+00:00,issue_breakdown,politics,informational,politically_engaged,link_in_bio,4,2,3,1,Post linking to an issue page about Adobe Systems' stance on Social Security & Medicare Expansion,Unclear audience engagement metrics,Consider adding a visual element to increase shareability,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 2,
+  ""risk_score"": 3,
+  ""visual_score"": 1,
+  ""summary"": ""Post linking to an issue page about Adobe Systems' stance on Social Security & Medicare Expansion"",
+  ""failure_reason"": ""Unclear audience engagement metrics"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to increase shareability"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mtlx4fq3sv2h,3mtlx4fq3sv2h,,2026-08-21T14:15:28.544245+00:00,See where DELIA RAMIREZ stands on Social Security & Medicare Expansion. https://www.goodsuniteus.com/politician/-ODbZYsKB5qNrW4CmjxT,1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:38:18.109580+00:00,politician_issue_card,social_security_and_medicare_expansion,informational,politically_engaged,link_in_bio,5,3,2,1,"Post about a politician's stance on a specific issue, with a link to learn more.",None,Consider sharing on other platforms to reach a broader audience.,1,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""social_security_and_medicare_expansion"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 1,
+  ""summary"": ""Post about a politician's stance on a specific issue, with a link to learn more."",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms to reach a broader audience."",
+  ""confidence"": 1.0
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mtbvad4gmn2y,3mtbvad4gmn2y,,2026-08-17T14:15:15.153244+00:00,See how Alphabet Inc. feels about Workplace Safety. https://www.goodsuniteus.com/issues/-LX7m6-8Ws09v3qr3Q3b,1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:38:24.983010+00:00,issue_breakdown,workplace safety,informational,politically_engaged,link_in_bio,4,3,2,1,Post links to an article about Alphabet Inc.'s stance on workplace safety.,Unclear audience,Consider adding a visual element to make the post more engaging.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""workplace safety"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 1,
+  ""summary"": ""Post links to an article about Alphabet Inc.'s stance on workplace safety."",
+  ""failure_reason"": ""Unclear audience"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to make the post more engaging."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mt2du4wevs26,3mt2du4wevs26,,2026-08-14T14:15:34.234163+00:00,See where Josh Riley stands on Gun Control. https://www.goodsuniteus.com/politician/-OD36PPr7MoioaQQBbWs,1,,0,,1,0,,text,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:38:31.896169+00:00,politician_issue_card,gun control,informational,politically_engaged,link_in_bio,5,3,4,1,Post about a politician's stance on gun control with a link to more information,None,Consider adding a visual element to make the post more engaging,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""gun control"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Post about a politician's stance on gun control with a link to more information"",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to make the post more engaging"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3msqbyft25b2k,3msqbyft25b2k,,2026-08-10T14:15:32.911808+00:00,See how Best Buy feels about Universal Healthcare. https://www.goodsuniteus.com/issues/-LX7m6-6p1aQT2FcByHE,3,,0,,1,1,,text,2026-09-29T23:03:24.976337+00:00,5,45.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:38:38.866647+00:00,issue_breakdown,healthcare,informational,politically_engaged,link_in_bio,4,3,4,1,A post about Best Buy's stance on Universal Healthcare with a link to a related issue.,Unclear audience,Consider adding an image or visual element to enhance shareability,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""healthcare"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""A post about Best Buy's stance on Universal Healthcare with a link to a related issue."",
+  ""failure_reason"": ""Unclear audience"",
+  ""repurpose_recommendation"": ""Consider adding an image or visual element to enhance shareability"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3msiql4ezm627,3msiql4ezm627,,2026-08-07T14:15:15.027616+00:00,See where Pramila Jayapal stands on Immigrant Rights. https://www.goodsuniteus.com/politician/-Ln9pqU1-vM25LLJWE9S,0,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,0,6.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:38:46.109393+00:00,politician_issue_card,immigrant_rights,informational,politically_engaged,link_in_bio,5,3,2,1,Post about Pramila Jayapal's stance on Immigrant Rights with a link to a website.,Unclear,Consider adding a visual element to make the post more engaging.,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""immigrant_rights"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 1,
+  ""summary"": ""Post about Pramila Jayapal's stance on Immigrant Rights with a link to a website."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to make the post more engaging."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ms72yluofx2z,3ms72yluofx2z,,2026-08-03T17:55:07.510696+00:00,See where Sara Jacobs stands on Abortion & Reproductive Rights. https://www.goodsuniteus.com/politician/-LaTXI9zp3pyTo8CCyAx,1,,0,,1,0,,text,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:38:53.408451+00:00,politician_issue_card,abortion_and_reproductive_rights,informational,politically_engaged,link_in_bio,5,3,4,1,Post about a politician's stance on abortion and reproductive rights with a link to more information.,None,Consider sharing a visual representation of the politician's stance or a breakdown of the issue.,1,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""abortion_and_reproductive_rights"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Post about a politician's stance on abortion and reproductive rights with a link to more information."",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider sharing a visual representation of the politician's stance or a breakdown of the issue."",
+  ""confidence"": 1.0
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ms72yhpndz2p,3ms72yhpndz2p,,2026-08-03T17:55:03.153273+00:00,See how Abercrombie & Fitch feels about Defense Spending. https://www.goodsuniteus.com/issues/-LX7m5zay46Zd5obLZts,0,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,0,6.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:39:00.287081+00:00,issue_breakdown,defense_spending,informational,politically_engaged,link_in_bio,5,2,3,1,Link to an issue breakdown on defense spending from Goodsuniteus,Unclear engagement metrics,Consider adding a visual to make the post more engaging,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""defense_spending"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 2,
+  ""risk_score"": 3,
+  ""visual_score"": 1,
+  ""summary"": ""Link to an issue breakdown on defense spending from Goodsuniteus"",
+  ""failure_reason"": ""Unclear engagement metrics"",
+  ""repurpose_recommendation"": ""Consider adding a visual to make the post more engaging"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ms6opr6aqz24,3ms6opr6aqz24,,2026-08-03T14:15:26.177139+00:00,See how Abercrombie & Fitch feels about Gun Control. https://www.goodsuniteus.com/issues/-LX7m5zay46Zd5obLZts,1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:39:07.376405+00:00,issue_breakdown,gun_control,informational,politically_engaged,link_in_bio,4,3,4,1,Abercrombie & Fitch's stance on gun control is linked to a webpage.,Unclear audience engagement metrics.,Consider adding a visual element to enhance shareability.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""gun_control"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Abercrombie & Fitch's stance on gun control is linked to a webpage."",
+  ""failure_reason"": ""Unclear audience engagement metrics."",
+  ""repurpose_recommendation"": ""Consider adding a visual element to enhance shareability."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mrxam55omp24,3mrxam55omp24,,2026-07-31T15:14:13.968294+00:00,See where Sara Jacobs stands on Support for DEI. https://www.goodsuniteus.com/politician/-LaTXI9zp3pyTo8CCyAx,1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:39:14.097946+00:00,politician_issue_card,politics,informational,politically_engaged,link_in_bio,5,3,4,1,Post about Sara Jacobs' stance on DEI with link to more info,Unclear,None,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Post about Sara Jacobs' stance on DEI with link to more info"",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""None"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mrx5cmdya22s,3mrx5cmdya22s,,2026-07-31T14:15:13.131669+00:00,See where Sara Jacobs stands on Union Support. https://www.goodsuniteus.com/politician/-LaTXI9zp3pyTo8CCyAx,1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:39:21.201392+00:00,politician_issue_card,union_support,informational,politically_engaged,link_in_bio,5,2,4,1,A politician's stance on union support is presented with a link to a website for further information.,Unclear audience engagement metrics.,Consider adding a visual element to enhance shareability.,0.8,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""union_support"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 2,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""A politician's stance on union support is presented with a link to a website for further information."",
+  ""failure_reason"": ""Unclear audience engagement metrics."",
+  ""repurpose_recommendation"": ""Consider adding a visual element to enhance shareability."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mrn3gv2xdw2v,3mrn3gv2xdw2v,,2026-07-27T14:15:11.625939+00:00,See how Macy's feels about Raising Minimum Wage. https://www.goodsuniteus.com/issues/-LX7m5zV5lRnVHK3gMlw,1,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:39:28.057197+00:00,issue_breakdown,minimum wage,informational,politically_engaged,link_in_bio,4,2,3,1,Post links to a webpage discussing Macy's stance on raising the minimum wage.,Unclear audience,Consider adding a visual element to make the post more engaging.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""minimum wage"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 2,
+  ""risk_score"": 3,
+  ""visual_score"": 1,
+  ""summary"": ""Post links to a webpage discussing Macy's stance on raising the minimum wage."",
+  ""failure_reason"": ""Unclear audience"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to make the post more engaging."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mrfk22uvjn27,3mrfk22uvjn27,,2026-07-24T14:15:09.727452+00:00,See where Ro Khanna stands on Immigrant Rights. https://www.goodsuniteus.com/politician/-LaTXI9w-S17iD8VSox8,2,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:39:34.549356+00:00,politician_issue_card,immigrant_rights,informational,politically_engaged,link_in_bio,5,3,2,1,Post linking to a politician's stance on immigrant rights,none,consider adding an image or visual element,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""immigrant_rights"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 1,
+  ""summary"": ""Post linking to a politician's stance on immigrant rights"",
+  ""failure_reason"": ""none"",
+  ""repurpose_recommendation"": ""consider adding an image or visual element"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3mrbz6vba272g,3mrbz6vba272g,,2026-07-23T04:35:38.788060+00:00,See how Walmart feels about LGBTQ Rights. https://www.goodsuniteus.com/issues/-LX7m5zSX9OC1FKBg3q0,4,,0,,0,0,,text,2026-09-29T23:03:24.976337+00:00,4,43.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:39:41.269418+00:00,issue_breakdown,social_justice,accountability,politically_engaged,link_in_bio,4,3,4,1,Post linking to an article about Walmart's stance on LGBTQ rights,Unclear audience engagement metrics,Consider adding a visual element to increase engagement,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""social_justice"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 1,
+  ""summary"": ""Post linking to an article about Walmart's stance on LGBTQ rights"",
+  ""failure_reason"": ""Unclear audience engagement metrics"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to increase engagement"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lzo6rjnlxk2r,3lzo6rjnlxk2r,,2025-09-25T14:42:50.671Z,,8,,1,,6,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreicrx4lxzcv5ox3lcfwqex4hu6pecskkolym2zvv6bqpyjxhsqkylq/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,16,70.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:39:48.035560+00:00,community_prompt,unclear,neutral,unclear,none,3,4,2,5,"A video post with unclear content and audience, but visually engaging.",Unclear content and audience,Consider adding a clear call-to-action or more context to the post.,0.8,"{
+  ""content_lane"": ""community_prompt"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 4,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A video post with unclear content and audience, but visually engaging."",
+  ""failure_reason"": ""Unclear content and audience"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context to the post."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lzgspieksk2n,3lzgspieksk2n,,2025-09-22T16:18:19.147Z,#disney #goodsuniteus #shop #vote,16,,0,,4,2,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreicf6xd52qlg4jvmeltcfxkj7egciympweg2snsf2fzsay7g6byx74/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,22,77.1,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:39:54.667642+00:00,brand_value,entertainment,values_based,general_consumers,other,4,4,2,5,"A Disney-themed post from @goodsuniteus, promoting shopping and voting.",Unclear call-to-action,Consider adding a clear call-to-action or more context,0.8,"{
+  ""content_lane"": ""brand_value"",
+  ""topic"": ""entertainment"",
+  ""emotional_frame"": ""values_based"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""other"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 4,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A Disney-themed post from @goodsuniteus, promoting shopping and voting."",
+  ""failure_reason"": ""Unclear call-to-action"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lsmn5mnjqc24,3lsmn5mnjqc24,,2025-06-27T21:58:27.982Z,We need to take back our elections from corporations and special interests. Vote with your wallet. #politics #campaignfinancereform #goodsuniteus,24,,4,,15,3,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreigpdj2733kxev2uzvkjj6hqscrzlwctrj2of6jcctwmtawnmy4kzq/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,46,85.4,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:40:02.171567+00:00,politician_issue_card,politics,accountability,politically_engaged,vote_with_wallet,5,4,4,3,A politician or political organization is calling for campaign finance reform and encouraging people to vote with their wallets.,"Unclear call to action, but clear message",Use as a starting point for a more in-depth discussion on campaign finance reform,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""vote_with_wallet"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 3,
+  ""summary"": ""A politician or political organization is calling for campaign finance reform and encouraging people to vote with their wallets."",
+  ""failure_reason"": ""Unclear call to action, but clear message"",
+  ""repurpose_recommendation"": ""Use as a starting point for a more in-depth discussion on campaign finance reform"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lscqome4t22b,3lscqome4t22b,,2025-06-23T23:35:01.941Z,"#goodsuniteus #campaignfinancereform
+#politics",68,,2,,20,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreibzl5d6ubn3zdlazm53vpbytpqicjglt5j3czrpkaei4ezd7vnuxq/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,91,97.9,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:40:08.736465+00:00,politician_issue_card,politics,accountability,politically_engaged,none,4,3,4,5,A politician or campaign is promoting campaign finance reform.,Unclear call to action.,Consider adding a clear call to action or a link to learn more.,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""A politician or campaign is promoting campaign finance reform."",
+  ""failure_reason"": ""Unclear call to action."",
+  ""repurpose_recommendation"": ""Consider adding a clear call to action or a link to learn more."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ls4qwphww22h,3ls4qwphww22h,,2025-06-21T14:23:35.217Z,It’s time to talk campaign finance reform. #goodsuniteus #campaignfinancereform,8,,0,,3,0,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreiaz7sjsep74ngmkmfcu3exg7nfb7wassxjxzk7qls67p7et2fxjrm/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,11,64.6,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:40:15.309279+00:00,politician_issue_card,campaign finance reform,informational,politically_engaged,none,5,4,3,5,A politician or political organization posting about campaign finance reform.,,Consider sharing a related article or personal story to add depth to the issue.,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""campaign finance reform"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 5,
+  ""summary"": ""A politician or political organization posting about campaign finance reform."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing a related article or personal story to add depth to the issue."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lqzurma7dc2a,3lqzurma7dc2a,,2025-06-07T17:29:08.169Z,Citi’s political contributions have gone primarily to politicians that do not support LGBTQ+ rights. #pride,14,,1,,5,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreicgh3psywcc4x4kplv773xoo5enjnbftf25ophicxq776aizeumgq/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,21,75.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:40:22.160092+00:00,issue_breakdown,politics,accountability,politically_engaged,none,4,3,2,5,"Post highlights Citi's political contributions to politicians not supporting LGBTQ+ rights, using the #pride hashtag.",,Consider sharing on other platforms to reach a broader audience.,0.9,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Post highlights Citi's political contributions to politicians not supporting LGBTQ+ rights, using the #pride hashtag."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms to reach a broader audience."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lqx3swudys2i,3lqx3swudys2i,,2025-06-06T14:57:09.847Z,"While Dick’s has contributed to both sides, the politicians it funds support LGBTQ+ rights. #USPOL",15,,1,,3,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreibvz4irorkkjp5c5uk2vgbmaqd3myynntqrhe6f35chf5azgoajpy/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,20,74.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:40:28.660411+00:00,politician_issue_card,US politics,informational,politically_engaged,none,4,3,2,5,Post about Dick's funding of politicians supporting LGBTQ+ rights,,Consider sharing on other platforms to reach a broader audience,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""US politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Post about Dick's funding of politicians supporting LGBTQ+ rights"",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms to reach a broader audience"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lqse5o25ac2v,3lqse5o25ac2v,,2025-06-04T17:43:00.942Z,#pride,6,,0,,0,0,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreidvw32alisfglvdtnd654z4vinpswan5gtz2gst45a6l3rs42d6vq/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,6,51.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:40:35.491784+00:00,community_prompt,social_awareness,values_based,general_consumers,none,5,4,1,5,"A short video post with a single hashtag #pride, indicating a community-driven social awareness post.",Unclear,Consider adding more context or a clear call-to-action to enhance engagement.,0.9,"{
+  ""content_lane"": ""community_prompt"",
+  ""topic"": ""social_awareness"",
+  ""emotional_frame"": ""values_based"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""A short video post with a single hashtag #pride, indicating a community-driven social awareness post."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding more context or a clear call-to-action to enhance engagement."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lqse4vgg7c2v,3lqse4vgg7c2v,,2025-06-04T17:42:35.129Z,#pride,7,,1,,2,0,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreigjwoniboen5mjqqkdpu26l4rzwodu75swyatqnqokwsdwnyk4ktu/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,10,60.4,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:40:42.353599+00:00,community_prompt,social_awareness,values_based,general_consumers,none,5,4,1,5,"A short video post with a single hashtag #pride, indicating a community-driven social awareness post.",Unclear,Consider adding more context or a clear call-to-action to enhance engagement.,0.9,"{
+  ""content_lane"": ""community_prompt"",
+  ""topic"": ""social_awareness"",
+  ""emotional_frame"": ""values_based"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""A short video post with a single hashtag #pride, indicating a community-driven social awareness post."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding more context or a clear call-to-action to enhance engagement."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lqnlsdyk7s2d,3lqnlsdyk7s2d,,2025-06-02T20:16:32.548Z,"In honor of pride month, we are calling out brands and companies on how their political contributions affect LGBTQ+ rights. #USPOL",7,,0,,3,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreichmbx4iy3o6g6v6vmiou6drzwinlk6cpac6uvvwb3mtpekceo7z4/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,11,64.6,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:40:49.024717+00:00,issue_breakdown,politics,accountability,politically_engaged,none,5,4,4,5,Calling out brands on their political contributions to LGBTQ+ rights during Pride Month,,Consider sharing a breakdown of the specific brands and their contributions,1,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""Calling out brands on their political contributions to LGBTQ+ rights during Pride Month"",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing a breakdown of the specific brands and their contributions"",
+  ""confidence"": 1
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lq3hxrvfdk27,3lq3hxrvfdk27,,2025-05-26T15:20:04.639Z,#politics #goodsuniteus,13,,0,,1,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreiadyxndy5fjgg2l3gck6i263q3jes2hf2yjmx54quzpdsocy3iiqu/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,15,66.7,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:40:55.936516+00:00,politician_issue_card,politics,neutral,politically_engaged,none,4,3,2,4,"A politician or political organization posted a video with a neutral tone, likely discussing a political issue.",Unclear,Consider adding a clear call-to-action or more context to increase engagement.,0.8,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 4,
+  ""summary"": ""A politician or political organization posted a video with a neutral tone, likely discussing a political issue."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context to increase engagement."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lpf7wqv76k2k,3lpf7wqv76k2k,,2025-05-17T18:57:45.844Z,#kroger #politics #moneyinpolitics,5,,3,,2,0,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreia37o654rdgwb2z4ncukailba23e57zgilkfdfdsmvxufx5gceuiq/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,10,60.4,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:41:02.929079+00:00,issue_breakdown,politics,accountability,politically_engaged,none,4,3,4,5,"A video post about politics, specifically money in politics, with a hashtag #kroger.",Unclear why Kroger is mentioned.,Consider adding more context or a clear call to action.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""A video post about politics, specifically money in politics, with a hashtag #kroger."",
+  ""failure_reason"": ""Unclear why Kroger is mentioned."",
+  ""repurpose_recommendation"": ""Consider adding more context or a clear call to action."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3logp34kxhc2f,3logp34kxhc2f,,2025-05-05T15:36:06.550Z,#USPOL,7,,0,,3,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreid3hk5u7g3twv3swve7djxayeyyfuucldgwoamtz2s7vx4qpldww4/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,11,64.6,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:41:09.570851+00:00,other,unclear,neutral,unclear,none,3,2,2,4,"A video post with a hashtag #USPOL, but no clear content or context.",Lack of clear content or context,Request more information from the poster,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 2,
+  ""visual_score"": 4,
+  ""summary"": ""A video post with a hashtag #USPOL, but no clear content or context."",
+  ""failure_reason"": ""Lack of clear content or context"",
+  ""repurpose_recommendation"": ""Request more information from the poster"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lnjhbnevy22z,3lnjhbnevy22z,,2025-04-24T00:29:23.159Z,Let us introduce you to Index Align! #politics,50,,1,,24,2,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreiam752vy6vtyjbeoph6l5psq5opie6aj3tmjszuuqu7sqpxqpsyku/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,77,96.9,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:41:15.674146+00:00,issue_breakdown,politics,informational,politically_engaged,none,4,3,2,5,"Introduction to Index Align, a political topic",None,Consider adding a clear call-to-action or more context,0.9,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Introduction to Index Align, a political topic"",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lndjqguk3k25,3lndjqguk3k25,,2025-04-21T15:57:28.699Z,"Office politics…
+#boycott #shop #politics",1,,0,,0,0,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreibpcmdw2g76kwvrbqgzvak35cfm7xaehuj5s3yxkyvmuhshxcrhs4/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:41:21.768034+00:00,other,politics,surprising,politically_engaged,none,3,4,4,2,A short video about office politics with a call to boycott and shop responsibly.,Unclear call to action,Consider adding a clear call to action or more context,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""surprising"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 2,
+  ""summary"": ""A short video about office politics with a call to boycott and shop responsibly."",
+  ""failure_reason"": ""Unclear call to action"",
+  ""repurpose_recommendation"": ""Consider adding a clear call to action or more context"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lmfvctydus2s,3lmfvctydus2s,,2025-04-09T21:04:45.448Z,#USPOL #boycott #shop,11,,2,,2,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreiawaosslt7gv6vjtjo7qnvbloi6rjccyyculpl2c6bmwcrstgfhnq/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,16,70.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:41:28.122959+00:00,other,US politics,accountability,politically_engaged,none,4,4,3,5,A video post calling for a boycott of US products.,Unclear call to action,Consider adding a clear call to action or more context,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""US politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 5,
+  ""summary"": ""A video post calling for a boycott of US products."",
+  ""failure_reason"": ""Unclear call to action"",
+  ""repurpose_recommendation"": ""Consider adding a clear call to action or more context"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3llubiiueg22x,3llubiiueg22x,,2025-04-02T20:54:44.716Z,"#politics #USPOL #shop
+Surprise, surprise!
+Get the goods on your favorite companies. Get the Goods Unite Us app.",8,,0,,2,0,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreib26mskfvhjetpns7mukrfwghzm7bxs37m43ej3rc74slnfc4snhi/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,10,60.4,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:41:35.024260+00:00,company_callout,politics,surprising,politically_engaged,download_app,4,3,2,5,"Promoting the Goods Unite Us app with a surprising tone, targeting politically engaged users.",Unclear call-to-action for non-politically engaged users.,"Targeted ads for app users, emphasizing the app's value proposition.",0.8,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""surprising"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""download_app"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Promoting the Goods Unite Us app with a surprising tone, targeting politically engaged users."",
+  ""failure_reason"": ""Unclear call-to-action for non-politically engaged users."",
+  ""repurpose_recommendation"": ""Targeted ads for app users, emphasizing the app's value proposition."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lli54cotys2c,3lli54cotys2c,,2025-03-29T01:04:23.758Z,#politics #boycott,10,,0,,5,2,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreicsmhuw5kzk2iotowmdzxbag73ekr7e674rqvc4mpuo2wj53uaksq,image,2026-09-29T23:03:24.976337+00:00,17,71.9,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:41:41.723614+00:00,politician_issue_card,politics,accountability,politically_engaged,none,4,3,4,5,"A post with a hashtag #politics and #boycott, likely related to a political issue or call to action.",Unclear,Consider adding more context or information to make the post more clear and engaging.,0.8,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""A post with a hashtag #politics and #boycott, likely related to a political issue or call to action."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding more context or information to make the post more clear and engaging."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lklo74nb2c2k,3lklo74nb2c2k,,2025-03-17T17:22:59.286Z,Here’s a little info on our data. #politics #boycott #USPOL,12,,4,,1,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreidyfbwflawy64a2zohv7fxwsubv4ndopjylt4avemuenq326rirxq/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,18,72.9,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:41:48.144420+00:00,issue_breakdown,politics,informational,politically_engaged,none,4,3,2,5,"A video post sharing information about data, with a political tone.",Unclear,Consider adding a clear call-to-action or a more specific topic to improve engagement.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A video post sharing information about data, with a political tone."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or a more specific topic to improve engagement."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lkk74gunn22u,3lkk74gunn22u,,2025-03-17T03:20:23.485Z,"Shop with purpose. Check your Goods Unite Us app.
+#shop #boycott #politics",22,,0,,8,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreicxevcnttgfmgygj2molxza5zyg6y47a6er4pc4m7retj4nrocria/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,31,79.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:41:54.457742+00:00,company_callout,social_awareness,practical,politically_engaged,link_in_bio,4,3,4,5,Encourages users to shop with purpose and check the Goods Unite Us app.,Unclear call to action,Use a clear and direct call to action,0.9,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""social_awareness"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""Encourages users to shop with purpose and check the Goods Unite Us app."",
+  ""failure_reason"": ""Unclear call to action"",
+  ""repurpose_recommendation"": ""Use a clear and direct call to action"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lkgst4rpjs2a,3lkgst4rpjs2a,,2025-03-15T19:02:26.790Z,Remember: this data is based on FEC-reported political contribution data over the last three election cycles. No DEI data or other corporate behavior. Just money in politics.,39,,9,,9,2,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreic5tqmvbyyxk5aciyws6w7i7l4yyhz5hfxhy4m5mycpgtmzcahxjq,image,2026-09-29T23:03:24.976337+00:00,59,89.6,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:00.899875+00:00,issue_breakdown,politics,informational,politically_engaged,none,5,3,2,4,"Post highlights FEC-reported political contribution data, excluding DEI data and corporate behavior, focusing on money in politics.",,"Consider sharing on a platform with a broader audience, such as Twitter or Facebook.",0.9,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 4,
+  ""summary"": ""Post highlights FEC-reported political contribution data, excluding DEI data and corporate behavior, focusing on money in politics."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing on a platform with a broader audience, such as Twitter or Facebook."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lk33t4wex22l,3lk33t4wex22l,,2025-03-11T03:11:33.765Z,#politics #boycott,22,,5,,8,2,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreidit635suyb74uz7m7d7kxmohinq4437jehzjb352flp7r26hsh4q/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,37,83.3,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:07.552337+00:00,politician_issue_card,politics,accountability,politically_engaged,none,4,3,4,5,"A video post with a hashtag #politics and #boycott, indicating a political issue or call to action.",Unclear call to action or specific issue,Consider adding a clear call to action or more specific information about the issue,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""A video post with a hashtag #politics and #boycott, indicating a political issue or call to action."",
+  ""failure_reason"": ""Unclear call to action or specific issue"",
+  ""repurpose_recommendation"": ""Consider adding a clear call to action or more specific information about the issue"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ljolbolq522x,3ljolbolq522x,,2025-03-06T03:43:31.576Z,,39,,1,,5,2,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreic4d7oojcxzxcm5jspy37kqp7rdfzxpy3qk5pg3hg225vioi7qpki/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,47,86.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:13.468340+00:00,community_prompt,unclear,neutral,unclear,none,3,4,2,5,"A video post with unclear content and audience, but visually engaging.",Unclear content and audience,More context or information is needed to effectively repurpose this content.,0.6,"{
+  ""content_lane"": ""community_prompt"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 4,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A video post with unclear content and audience, but visually engaging."",
+  ""failure_reason"": ""Unclear content and audience"",
+  ""repurpose_recommendation"": ""More context or information is needed to effectively repurpose this content."",
+  ""confidence"": 0.6
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lip5l4fhwk2m,3lip5l4fhwk2m,,2025-02-21T15:45:43.762Z,Did you know that Ashley Furniture is a big donor to Donald Trump and Senator Ron Johnson? Now you know. Shop with purpose.,66,,4,,24,3,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreiey7lqdoo3vxgwtcwryqzxi3nziytxpefg7ahjz7ji4wrawmmxfxy,image,2026-09-29T23:03:24.976337+00:00,97,99.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:19.571419+00:00,issue_breakdown,politics,accountability,politically_engaged,none,4,4,4,3,"Post exposing a company's political donations, encouraging consumers to shop with purpose.",Unclear,Use as a starting point for a more in-depth discussion or analysis.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 3,
+  ""summary"": ""Post exposing a company's political donations, encouraging consumers to shop with purpose."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Use as a starting point for a more in-depth discussion or analysis."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ligg3dcwns2w,3ligg3dcwns2w,,2025-02-18T04:24:00.182Z,Check the Goods Unite Us app and find out. #USPOL,28,,2,,17,2,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreiasv4ojmqxvwfnu6wllixjstes7s6kl4lyscv7ra3z7wrdkkyjsie,image,2026-09-29T23:03:24.976337+00:00,49,87.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:26.057258+00:00,company_callout,US politics,practical,politically_engaged,link_in_bio,4,3,2,5,Promoting the Goods Unite Us app with a call to action to learn more.,Unclear why the app is relevant to the audience.,Consider adding more context or information about the app's purpose and benefits.,0.8,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""US politics"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Promoting the Goods Unite Us app with a call to action to learn more."",
+  ""failure_reason"": ""Unclear why the app is relevant to the audience."",
+  ""repurpose_recommendation"": ""Consider adding more context or information about the app's purpose and benefits."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lif6vikshk2a,3lif6vikshk2a,,2025-02-17T16:42:48.429Z,Check your Goods Unite Us app and find out what’s happening downstream of your streaming!,17,,1,,5,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreihsfr2t5danqnnhv4t7enqgmjb6wvn2sak4mfkl4a74fsu5necuby/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,24,78.1,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:32.264732+00:00,app_education,streaming,practical,app_users,learn_more,5,4,1,5,"Promoting the Goods Unite Us app, encouraging users to check their app for updates.",,Consider sharing a screenshot of the app's features or a testimonial from a satisfied user.,1,"{
+  ""content_lane"": ""app_education"",
+  ""topic"": ""streaming"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""app_users"",
+  ""cta_type"": ""learn_more"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""Promoting the Goods Unite Us app, encouraging users to check their app for updates."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing a screenshot of the app's features or a testimonial from a satisfied user."",
+  ""confidence"": 1.0
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3li3dd2mre22k,3li3dd2mre22k,,2025-02-13T18:35:21.159Z,,21,,2,,6,3,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreibmfdmasbrenuzpjf4dn6hrzbrhg4niiufsgek2cwrosfvf572aem/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,32,80.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:38.274392+00:00,community_prompt,unclear,neutral,unclear,none,3,4,2,5,"A video post on Bluesky with unclear content and audience, but visually engaging.",Unclear content and audience,Consider adding a clear call-to-action or more context to the post,0.8,"{
+  ""content_lane"": ""community_prompt"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 4,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A video post on Bluesky with unclear content and audience, but visually engaging."",
+  ""failure_reason"": ""Unclear content and audience"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context to the post"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lhhe52mvf22t,3lhhe52mvf22t,,2025-02-05T19:56:38.811Z,"#USPOL
+Goods Unite Us",41,,8,,18,8,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreifxm74law6tzpvlitf2g3zcar4kh67oswgtwzz2ikalydytwrgjoy/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,75,95.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:44.301445+00:00,politician_issue_card,us_politics,informational,politically_engaged,none,5,4,3,5,A politician or political organization posting about a specific issue or policy.,,Consider sharing the video on other platforms or in a newsletter to reach a broader audience.,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""us_politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 5,
+  ""summary"": ""A politician or political organization posting about a specific issue or policy."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing the video on other platforms or in a newsletter to reach a broader audience."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lhbvpbklkc2t,3lhbvpbklkc2t,,2025-02-03T15:55:05.229Z,#USPOL,38,,5,,13,6,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreifmkqjbvni6upd5vb455nyby2akrluwws7nwmqb5vcp5vtykhjywi,image,2026-09-29T23:03:24.976337+00:00,62,91.7,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:51.263437+00:00,other,unclear,neutral,unclear,none,3,4,2,5,"A post with a hashtag #USPOL, but no clear content or context.",Lack of clear content or context.,None,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 4,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A post with a hashtag #USPOL, but no clear content or context."",
+  ""failure_reason"": ""Lack of clear content or context."",
+  ""repurpose_recommendation"": ""None"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lgy7tgely22c,3lgy7tgely22c,,2025-01-30T19:29:44.530Z,We need campaign finance reform…yesterday.,51,,3,,18,3,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreigvzfmrfv4ihod6flxisfofswl7xb2q4i2tmtbjdjljfbjb7nddcu,image,2026-09-29T23:03:24.976337+00:00,75,95.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:42:57.839478+00:00,politician_issue_card,campaign finance reform,urgent,politically_engaged,none,5,4,3,2,A politician expresses urgency for campaign finance reform.,Unclear,Consider adding a clear call-to-action or more information about the issue.,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""campaign finance reform"",
+  ""emotional_frame"": ""urgent"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 2,
+  ""summary"": ""A politician expresses urgency for campaign finance reform."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more information about the issue."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lgjb5hvsks25,3lgjb5hvsks25,,2025-01-24T20:43:19.350Z,#USPOL,74,,2,,37,5,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreigpbz7dxrqru46oizl5kwzxabkzm3nfswhmvj7ajjzos4iglzy5ye,image,2026-09-29T23:03:24.976337+00:00,118,100.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:43:04.102837+00:00,other,unclear,neutral,unclear,none,2,3,2,4,"A post with a hashtag #USPOL, but no clear content or context.",Lack of clear content or context.,None,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 2,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 4,
+  ""summary"": ""A post with a hashtag #USPOL, but no clear content or context."",
+  ""failure_reason"": ""Lack of clear content or context."",
+  ""repurpose_recommendation"": ""None"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lgen4cvg4s2z,3lgen4cvg4s2z,,2025-01-23T00:34:06.751Z,"#USPOL, #moneytalks
+Check your Goods Unite Us app for more insights.",46,,2,,13,5,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreifapqmoq75lcasqexgjyyjrib3ml37xo3isjv2bh5lg4fsb7dncgu,image,2026-09-29T23:03:24.976337+00:00,66,93.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:43:11.227792+00:00,company_callout,US politics,practical,politically_engaged,link_in_bio,4,3,2,5,A post from Goods Unite Us promoting their app with a call to action to check it for more insights.,None,Consider sharing a breakdown of the app's features and benefits to increase engagement.,0.9,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""US politics"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A post from Goods Unite Us promoting their app with a call to action to check it for more insights."",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider sharing a breakdown of the app's features and benefits to increase engagement."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lg7lcjx7mc2p,3lg7lcjx7mc2p,,2025-01-21T00:18:29.300Z,#USPOL; #moneytalks,36,,6,,13,2,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreihhgia2ye3nqpby3iq3cxlrf5shq662yuxb3lgibsxzad4fethdcu,image,2026-09-29T23:03:24.976337+00:00,57,88.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:43:18.470266+00:00,other,us_politics,neutral,politically_engaged,none,3,4,2,5,"A post with a neutral tone discussing US politics, likely referencing a news event or issue.","Unclear context, but likely a news reaction or issue breakdown.",Consider adding a clear call-to-action or more context to increase engagement.,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""us_politics"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 4,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A post with a neutral tone discussing US politics, likely referencing a news event or issue."",
+  ""failure_reason"": ""Unclear context, but likely a news reaction or issue breakdown."",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context to increase engagement."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lfbufgrovs2s,3lfbufgrovs2s,,2025-01-09T04:41:18.167Z,,18,,1,,3,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreigtwzso4xhrdjpwhqevz67vft4ba55ghoyw4makt5topiwi6pdffq,image,2026-09-29T23:03:24.976337+00:00,22,77.1,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:43:24.757183+00:00,other,unclear,neutral,unclear,none,3,2,2,4,"A post with an image on Bluesky, but the caption is empty and the topic is unclear.",Unclear topic and caption,Add a clear caption or description to improve understanding and engagement.,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 2,
+  ""visual_score"": 4,
+  ""summary"": ""A post with an image on Bluesky, but the caption is empty and the topic is unclear."",
+  ""failure_reason"": ""Unclear topic and caption"",
+  ""repurpose_recommendation"": ""Add a clear caption or description to improve understanding and engagement."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lf6b3btiic2e,3lf6b3btiic2e,,2025-01-07T18:17:37.129Z,"Check the app for new political contribution data! 
+#USPOL, #moneytalks",41,,3,,14,4,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreigahj3pdodzhaogngxvjzzssfifpsfdjgfksylrqdr3uh5pzbbkdm,image,2026-09-29T23:03:24.976337+00:00,62,91.7,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:43:31.013201+00:00,issue_breakdown,politics,informational,politically_engaged,link_in_bio,5,4,3,2,"Post about new political contribution data, encouraging users to check the app.",None,Consider sharing on other platforms to reach a broader audience.,0.9,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 2,
+  ""summary"": ""Post about new political contribution data, encouraging users to check the app."",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms to reach a broader audience."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lf4mfbebjk23,3lf4mfbebjk23,,2025-01-07T02:34:43.856Z,"Four years ago, after January 6, 2021, many companies pledged not to contribute money to the Republican lawmakers who voted not to certify the election. AT&T was one of them. But, soon after making that pledge, AT&T broke it by donating hundreds of thousands of dollars to those same lawmakers.",45,,2,,16,2,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreicm33au3uhbychqvtcdhrdscl5j5phwewnqfpmw6b7mrsibb7veoe,image,2026-09-29T23:03:24.976337+00:00,65,92.7,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:43:37.523323+00:00,issue_breakdown,politics,accountability,politically_engaged,none,5,4,4,3,AT&T broke its pledge not to donate to Republican lawmakers who voted against certifying the election.,none,use as a fact-checking resource,0.9,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 3,
+  ""summary"": ""AT&T broke its pledge not to donate to Republican lawmakers who voted against certifying the election."",
+  ""failure_reason"": ""none"",
+  ""repurpose_recommendation"": ""use as a fact-checking resource"",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lepmd55nks2l,3lepmd55nks2l,,2025-01-01T22:28:55.735Z,"Happy New Year! In 2025 it is going to be particularly important to know how our consumer and investment dollars are affecting elections. #resist, #USPOL, #moneytalks, #resolutions",19,,0,,10,5,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreicsfrillgcxzfczti76nl22sb523q6gnfxwtmyn4whbrsxx7fhvmy,image,2026-09-29T23:03:24.976337+00:00,34,81.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:43:43.867132+00:00,issue_breakdown,politics/elections,informational,politically_engaged,none,4,3,2,5,Post about the importance of knowing how consumer and investment dollars affect elections in 2025.,Unclear,Consider adding a clear call to action or a link to a related resource.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""politics/elections"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Post about the importance of knowing how consumer and investment dollars affect elections in 2025."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding a clear call to action or a link to a related resource."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lekjeqq5cc2z,3lekjeqq5cc2z,,2024-12-30T21:52:49.906Z,"Be a good sport, shop with purpose. Check your Goods Unite Us app! #resist, #USPOL, #moneytalks, #resolutions",22,,2,,11,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreiczuidety57vngjuvdyvs42lxzafb2ck3gxz4wvssijaw2ewvseyi,image,2026-09-29T23:03:24.976337+00:00,36,82.3,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:43:50.211147+00:00,brand_value,social_justice,values_based,politically_engaged,link_in_bio,4,4,3,5,Promoting a social justice app with a call to action to shop with purpose.,Unclear,Consider shortening the caption to focus on the app's benefits.,0.8,"{
+  ""content_lane"": ""brand_value"",
+  ""topic"": ""social_justice"",
+  ""emotional_frame"": ""values_based"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 5,
+  ""summary"": ""Promoting a social justice app with a call to action to shop with purpose."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider shortening the caption to focus on the app's benefits."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3leetdez2r22p,3leetdez2r22p,,2024-12-28T15:35:03.050Z,"We just passed the one million downloads mark! We are so grateful to all of you. Now let’s keep it going! Shop with purpose, shop with power. #moneytalks, #USPOL, #resist, #resolutions",27,,2,,9,5,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreibexy5vjjuvsdlqm64sporezpgzk4ylelcmv3clmh3nnl3v6vs6cm,image,2026-09-29T23:03:24.976337+00:00,43,84.4,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:43:56.353243+00:00,brand_value,app_education,values_based,general_consumers,link_in_bio,5,4,3,5,"App developer celebrates reaching 1 million downloads, encouraging users to shop with purpose.",,Consider sharing a breakdown of the app's features or benefits to further engage users.,0.9,"{
+  ""content_lane"": ""brand_value"",
+  ""topic"": ""app_education"",
+  ""emotional_frame"": ""values_based"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 5,
+  ""summary"": ""App developer celebrates reaching 1 million downloads, encouraging users to shop with purpose."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing a breakdown of the app's features or benefits to further engage users."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3le5k3nwmvc22,3le5k3nwmvc22,,2024-12-25T18:01:02.127Z,"#holiday, #moneytalks, #USPOL",10,,1,,0,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreighyl6v6zigonqz4hewjuwf44sbzn64e2r6hio76hhmpqt6d3zl74,image,2026-09-29T23:03:24.976337+00:00,11,64.6,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:02.355950+00:00,other,holiday,neutral,general_consumers,none,4,3,2,5,"A holiday-themed post with a neutral tone, likely intended for a general audience.",Unclear purpose or call-to-action.,Consider adding a clear call-to-action or more context to the post.,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""holiday"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A holiday-themed post with a neutral tone, likely intended for a general audience."",
+  ""failure_reason"": ""Unclear purpose or call-to-action."",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context to the post."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3le5d4oqs5222,3le5d4oqs5222,,2024-12-25T15:56:20.349Z,www.wsj.com/business/tru...,10,,0,,5,1,,external_link,2026-09-29T23:03:24.976337+00:00,16,70.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:08.061919+00:00,news_reaction,business,informational,general_consumers,link_in_bio,5,3,1,1,A news article link from the WSJ about business.,None,Consider adding a brief summary or quote from the article to increase engagement.,1,"{
+  ""content_lane"": ""news_reaction"",
+  ""topic"": ""business"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 1,
+  ""visual_score"": 1,
+  ""summary"": ""A news article link from the WSJ about business."",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider adding a brief summary or quote from the article to increase engagement."",
+  ""confidence"": 1
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3le3wgpexfs27,3le3wgpexfs27,,2024-12-25T02:36:38.168Z,,7,,0,,1,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreihjynvg7ui3a5xhb67j2kvcdtofnbdfikew26oslwt2ny6pn3uy2i,image,2026-09-29T23:03:24.976337+00:00,8,56.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:14.254216+00:00,other,unclear,neutral,unclear,none,3,2,1,5,"A post with an image on Bluesky, but the caption is empty and there's no clear topic or call to action.",Unclear topic and lack of context,Add a clear caption or description to provide context,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""A post with an image on Bluesky, but the caption is empty and there's no clear topic or call to action."",
+  ""failure_reason"": ""Unclear topic and lack of context"",
+  ""repurpose_recommendation"": ""Add a clear caption or description to provide context"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ldzmlguy4227,3ldzmlguy4227,,2024-12-24T04:35:00.133Z,"#carpolitics, #USPOL, #moneytalks
+Shop with purpose. Check the Goods Unite Us app!",9,,0,,4,3,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreidsmrcnflrttd3e23pzdmj4jhewqu5cwyfu5gtyldwuv3uzksp2na,image,2026-09-29T23:03:24.976337+00:00,16,70.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:20.033358+00:00,company_callout,consumer_action,practical,general_consumers,link_in_bio,5,4,1,5,Promoting the Goods Unite Us app for shopping with purpose.,,Consider sharing a breakdown of the app's features or benefits.,1,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""consumer_action"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""Promoting the Goods Unite Us app for shopping with purpose."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing a breakdown of the app's features or benefits."",
+  ""confidence"": 1
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ldyo7qxgek27,3ldyo7qxgek27,,2024-12-23T19:31:35.793Z,"#USPOL, #moneytalks, #holiday
+Shop with purpose.",9,,0,,2,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreibo4oivtmtk6qbsdohnqtpjhlmdzuw7mnhoewa5ffiu6p4xff3dya,image,2026-09-29T23:03:24.976337+00:00,12,65.6,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:26.129132+00:00,brand_value,US politics,values_based,politically_engaged,none,4,3,2,5,"A brand promoting shopping with purpose during the holiday season, referencing US politics.",Unclear call-to-action,Consider adding a clear call-to-action or a link to a related resource,0.8,"{
+  ""content_lane"": ""brand_value"",
+  ""topic"": ""US politics"",
+  ""emotional_frame"": ""values_based"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A brand promoting shopping with purpose during the holiday season, referencing US politics."",
+  ""failure_reason"": ""Unclear call-to-action"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or a link to a related resource"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ldu4zck4ps27,3ldu4zck4ps27,,2024-12-22T00:13:06.779Z,Don’t get snowed by your winter gear. Shop with purpose.,2,,0,,1,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreidtv2mqc7wvoqlml4qh6fyftuyujhdpi4zeo4acika4pjr67dzeyu,image,2026-09-29T23:03:24.976337+00:00,4,43.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:31.837158+00:00,brand_value,winter gear,practical,general_consumers,link_in_bio,5,4,1,5,A brand promoting winter gear with a practical tone.,None,Consider repurposing as a sponsored post or influencer collaboration.,0.9,"{
+  ""content_lane"": ""brand_value"",
+  ""topic"": ""winter gear"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""A brand promoting winter gear with a practical tone."",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider repurposing as a sponsored post or influencer collaboration."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ldorwtoaxc2r,3ldorwtoaxc2r,,2024-12-19T21:11:34.232Z,Get our app and shop with purpose. #goodsuniteus; #holidays; #shopping; #USPOL,6,,0,,1,2,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreibq77rojtldjwly7psmvax7gjb6toshtx3vwrqabwzyumab5celcu,image,2026-09-29T23:03:24.976337+00:00,9,57.3,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:37.701209+00:00,brand_value,shopping,practical,general_consumers,download_app,5,3,2,5,Promoting the app and encouraging users to shop with purpose.,,Consider sharing a breakdown of the app's features or benefits to increase engagement.,0.9,"{
+  ""content_lane"": ""brand_value"",
+  ""topic"": ""shopping"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""download_app"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Promoting the app and encouraging users to shop with purpose."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing a breakdown of the app's features or benefits to increase engagement."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ldkixnltps2r,3ldkixnltps2r,,2024-12-18T04:20:18.787Z,No surprises here…,2,,0,,3,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreia6jc2bn6htwpe5idhdbrrh4pj2ipxd3wrzythyraavudom26sof4,image,2026-09-29T23:03:24.976337+00:00,6,51.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:43.113171+00:00,other,unclear,surprising,unclear,none,3,2,2,5,"A brief, image-based post with unclear content and context.",Unclear content and context,None,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""surprising"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A brief, image-based post with unclear content and context."",
+  ""failure_reason"": ""Unclear content and context"",
+  ""repurpose_recommendation"": ""None"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ldgmxvztk22l,3ldgmxvztk22l,,2024-12-16T15:21:23.647Z,"#USPOL
+#cocktails
+#vote
+#holiday
+#moneytalks",3,,1,,1,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreibbc62xe7nnrpsqs3uoernnbhyviwodww3k4flju3imgbds26inhm,image,2026-09-29T23:03:24.976337+00:00,6,51.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:50.249531+00:00,other,US politics,neutral,politically_engaged,none,3,4,2,5,"A post on US politics with a mix of hashtags and an image, likely from a political account.",Unclear purpose or goal,Consider adding a clear call-to-action or more context,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""US politics"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 4,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A post on US politics with a mix of hashtags and an image, likely from a political account."",
+  ""failure_reason"": ""Unclear purpose or goal"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ld7dmimlws23,3ld7dmimlws23,,2024-12-13T17:45:18.640Z,Shares of JP Morgan have seen significant growth since the election despite the company’s politics.,0,,0,,1,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreiazahxvojb4lz2fd4ncsc3vgem4jpl7cvp2v6fedmwz67fvqunnxi/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:44:57.115240+00:00,issue_breakdown,finance/economy,practical,politically_engaged,none,4,2,3,5,"Post discusses the growth of JP Morgan shares after the election, highlighting the company's politics.",Unclear engagement metrics,Consider adding more context or data to support the claim,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""finance/economy"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 2,
+  ""risk_score"": 3,
+  ""visual_score"": 5,
+  ""summary"": ""Post discusses the growth of JP Morgan shares after the election, highlighting the company's politics."",
+  ""failure_reason"": ""Unclear engagement metrics"",
+  ""repurpose_recommendation"": ""Consider adding more context or data to support the claim"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ld5rjkjzbc2s,3ld5rjkjzbc2s,,2024-12-13T02:48:52.894Z,"The health insurance industry makes billions of dollars in profits, which enables it to pump huge sums of private money into politics. Find out where that money is going with the Goods Unite Us app!",2,,0,,1,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreidgfr2eglv665u6vt5guzy4xioxflaboegks5xoqtm3bdmeuctkxa,image,2026-09-29T23:03:24.976337+00:00,4,43.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:45:04.266068+00:00,issue_breakdown,health_insurance,informational,politically_engaged,download_app,4,3,2,1,"Post highlights the influence of health insurance industry profits on politics, promoting the Goods Unite Us app for more information.",Unclear,Consider adding more context or visuals to increase engagement and clarity.,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""health_insurance"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""download_app"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 1,
+  ""summary"": ""Post highlights the influence of health insurance industry profits on politics, promoting the Goods Unite Us app for more information."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding more context or visuals to increase engagement and clarity."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ld4schcwyk2w,3ld4schcwyk2w,,2024-12-12T17:30:08.640Z,"#USPOL
+#healthinsurance
+#health
+#insurance
+#moneyvotes",4,,0,,2,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreidnxfz42bkvaigezgryk2foo5pwhppprmnvej2ezihcmltk5qwaym,image,2026-09-29T23:03:24.976337+00:00,7,55.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:45:10.890178+00:00,other,healthinsurance,neutral,general_consumers,none,4,3,2,5,"A post about health insurance with a neutral tone, likely from a public figure or organization.",Unclear,Consider adding a clear call-to-action or more context to increase engagement.,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""healthinsurance"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A post about health insurance with a neutral tone, likely from a public figure or organization."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context to increase engagement."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3ld2ic6xq6s2b,3ld2ic6xq6s2b,,2024-12-11T19:25:42.989Z,"#vacation
+#USPOL",2,,3,,1,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreie43yzafzud43nnjmxiw4x2zhuvwid6xdd3inxa5gcmtzgpbq3ccu,image,2026-09-29T23:03:24.976337+00:00,7,55.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:45:17.276902+00:00,other,vacation,neutral,general_consumers,none,5,3,1,5,A user posted a photo with the hashtags #vacation and #USPOL.,,Consider adding a clear call-to-action or more context to the post.,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""vacation"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""A user posted a photo with the hashtags #vacation and #USPOL."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context to the post."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lcy6slhrz22w,3lcy6slhrz22w,,2024-12-10T21:30:36.077Z,"#USPOL
+#banking
+#vote",0,,0,,2,1,https://video.bsky.app/watch/did%3Aplc%3Adkqyfczjnig7me5b7ez54jdw/bafkreihet36hnba7mlz7nlh5fig56id2avfs3yk4lcbtn3zdlwlyttl5jy/thumbnail.jpg,video,2026-09-29T23:03:24.976337+00:00,3,38.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:45:23.549257+00:00,politician_issue_card,banking,urgent,politically_engaged,other,4,3,4,5,"A politician's post about banking, urging a vote.",Unclear call to action,Use as a news reaction,0.8,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""banking"",
+  ""emotional_frame"": ""urgent"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""vote"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""A politician's post about banking, urging a vote."",
+  ""failure_reason"": ""Unclear call to action"",
+  ""repurpose_recommendation"": ""Use as a news reaction"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lcy64uwjys22,3lcy64uwjys22,,2024-12-10T21:18:27.799Z,#USPOL,1,,1,,1,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreig6bl6k2bsv5okr56s3x4tkjdnslea4qkmvtooyjgdadkli522bim,image,2026-09-29T23:03:24.976337+00:00,4,43.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:45:29.856795+00:00,other,unclear,neutral,unclear,none,2,3,2,4,"A post with a single hashtag #USPOL, but no clear content or context.",Lack of clear content or context,None,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 2,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 4,
+  ""summary"": ""A post with a single hashtag #USPOL, but no clear content or context."",
+  ""failure_reason"": ""Lack of clear content or context"",
+  ""repurpose_recommendation"": ""None"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lcy636kxyc22,3lcy636kxyc22,,2024-12-10T21:17:30.794Z,,4,,0,,2,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreifdkirupdjdxznp6lfyo2eg73vqhoqgsybxdds2gpofzoqirz5qny,image,2026-09-29T23:03:24.976337+00:00,7,55.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:45:36.002854+00:00,other,unclear,neutral,unclear,none,3,2,1,5,"A post with an image on Bluesky, but no caption or clear topic.",Insufficient information,Request more context or information,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""A post with an image on Bluesky, but no caption or clear topic."",
+  ""failure_reason"": ""Insufficient information"",
+  ""repurpose_recommendation"": ""Request more context or information"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lctqlaeros2y,3lctqlaeros2y,,2024-12-09T03:05:18.217Z,,4,,0,,1,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreifyk4ga4hhrjzppp6wi7xztk26lji3bmaqh3v4hi4qb5ngwk7pdte,image,2026-09-29T23:03:24.976337+00:00,6,51.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:45:42.501768+00:00,other,unclear,neutral,unclear,none,3,2,2,4,"A post with an image on Bluesky, but no caption or clear topic.",Unclear topic and lack of context.,Add a clear caption or description to provide context.,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 2,
+  ""visual_score"": 4,
+  ""summary"": ""A post with an image on Bluesky, but no caption or clear topic."",
+  ""failure_reason"": ""Unclear topic and lack of context."",
+  ""repurpose_recommendation"": ""Add a clear caption or description to provide context."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lchcps73vs2c,3lchcps73vs2c,,2024-12-04T04:25:21.882Z,#USPOL,1,,0,,1,1,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreicrv6hi5hxa2r2ld4fhjy5owvymvn6reyfhhvajbc2cvcaobrh6fm,image,2026-09-29T23:03:24.976337+00:00,3,38.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:45:48.907233+00:00,other,unclear,neutral,unclear,none,1,2,1,3,A post with a hashtag #USPOL but no clear content or context.,Lack of clear content or context,Uncertain,0.6,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 1,
+  ""shareability_score"": 2,
+  ""risk_score"": 1,
+  ""visual_score"": 3,
+  ""summary"": ""A post with a hashtag #USPOL but no clear content or context."",
+  ""failure_reason"": ""Lack of clear content or context"",
+  ""repurpose_recommendation"": ""Uncertain"",
+  ""confidence"": 0.6
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lce3wcgvxs2t,3lce3wcgvxs2t,,2024-12-02T21:45:44.833Z,,1,,0,,1,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreianapf7ginc2e5tcyhjv5jxmokcds7u7kqij6bq4u3dmz4e4jexma,image,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:45:55.122435+00:00,other,unclear,neutral,unclear,none,3,2,2,4,"A post with an image on Bluesky, but no caption or clear topic.",Unclear topic and audience,None,0.6,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 2,
+  ""visual_score"": 4,
+  ""summary"": ""A post with an image on Bluesky, but no caption or clear topic."",
+  ""failure_reason"": ""Unclear topic and audience"",
+  ""repurpose_recommendation"": ""None"",
+  ""confidence"": 0.6
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lcccjfgccc2z,3lcccjfgccc2z,,2024-12-02T04:38:28.468Z,#cybermonday,3,,0,,0,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreihfwultogprtcubiufao2djbtpqburj5z3imlpntm4q3kzpp5r6wa,image,2026-09-29T23:03:24.976337+00:00,3,38.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:46:00.954022+00:00,other,holiday,neutral,general_consumers,none,5,4,1,5,"A post on Bluesky with a neutral tone, likely a holiday promotion.",Unclear,Consider adding a clear call-to-action or more context.,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""holiday"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""A post on Bluesky with a neutral tone, likely a holiday promotion."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lcbyid7xy22k,3lcbyid7xy22k,,2024-12-02T01:38:55.193Z,youtu.be/XVV3x_ysFxk?...,4,,0,,1,1,,external_link,2026-09-29T23:03:24.976337+00:00,6,51.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:46:07.285909+00:00,other,unclear,neutral,unclear,none,3,2,2,1,"A post with an external link to a YouTube video, but no further context or description.",Lack of context or description,Add a brief description or summary of the content to improve clarity and shareability,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 2,
+  ""visual_score"": 1,
+  ""summary"": ""A post with an external link to a YouTube video, but no further context or description."",
+  ""failure_reason"": ""Lack of context or description"",
+  ""repurpose_recommendation"": ""Add a brief description or summary of the content to improve clarity and shareability"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lc72usma722p,3lc72usma722p,,2024-11-30T21:43:42.242Z,#USPOL,1,,0,,1,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreibh5sfrgcg7ehmdlegoosl3tfqfgbkiiijvo53rhchbwrd3ptlnga,image,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:46:12.966545+00:00,other,unclear,neutral,unclear,none,3,2,2,4,A post with a hashtag #USPOL but no clear content or context.,Lack of clear content or context,None,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 2,
+  ""visual_score"": 4,
+  ""summary"": ""A post with a hashtag #USPOL but no clear content or context."",
+  ""failure_reason"": ""Lack of clear content or context"",
+  ""repurpose_recommendation"": ""None"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lc4hof6zsk2y,3lc4hof6zsk2y,,2024-11-29T20:54:46.280Z,#blackfriday,0,,0,,1,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreicltcwfyv4igkdjxw5maszzy2va23gzgeemt6pmpkpsae34r6yvoy,image,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:46:18.787862+00:00,other,holiday,neutral,general_consumers,none,5,3,1,5,A post on Bluesky with a black Friday hashtag and an image.,Unclear purpose or goal.,Consider adding a clear call-to-action or more context.,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""holiday"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 1,
+  ""visual_score"": 5,
+  ""summary"": ""A post on Bluesky with a black Friday hashtag and an image."",
+  ""failure_reason"": ""Unclear purpose or goal."",
+  ""repurpose_recommendation"": ""Consider adding a clear call-to-action or more context."",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lc4cjhmars2o,3lc4cjhmars2o,,2024-11-29T19:22:32.329Z,,0,,1,,0,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreicltcwfyv4igkdjxw5maszzy2va23gzgeemt6pmpkpsae34r6yvoy,image,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:46:24.516371+00:00,other,unclear,neutral,unclear,none,3,2,2,5,Image-only post with no caption or clear content.,Unclear content and lack of engagement metrics.,Consider adding a caption or description to provide context.,0.6,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Image-only post with no caption or clear content."",
+  ""failure_reason"": ""Unclear content and lack of engagement metrics."",
+  ""repurpose_recommendation"": ""Consider adding a caption or description to provide context."",
+  ""confidence"": 0.6
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lc464grja22o,3lc464grja22o,,2024-11-29T18:03:40.280Z,www.goodsuniteus.com/2024/11/29/h...,1,,1,,1,0,,external_link,2026-09-29T23:03:24.976337+00:00,3,38.5,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:46:30.017288+00:00,other,unclear,neutral,unclear,link_in_bio,3,2,2,1,External link shared on Bluesky with no image or clear topic.,Unclear topic and audience,None,0.6,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""unclear"",
+  ""emotional_frame"": ""neutral"",
+  ""audience"": ""unclear"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 3,
+  ""shareability_score"": 2,
+  ""risk_score"": 2,
+  ""visual_score"": 1,
+  ""summary"": ""External link shared on Bluesky with no image or clear topic."",
+  ""failure_reason"": ""Unclear topic and audience"",
+  ""repurpose_recommendation"": ""None"",
+  ""confidence"": 0.6
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lbsewckmdk2l,3lbsewckmdk2l,,2024-11-25T20:38:53.341Z,"No surprises here!
+#USPOL",0,,0,,1,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreicxmuw2jr7yhxnijdjbvm4xg226r64a4tsm5gqkzcg4aauqvhm6km,image,2026-09-29T23:03:24.976337+00:00,1,20.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:46:36.045986+00:00,other,us_politics,surprising,politically_engaged,none,4,3,2,5,"A short, image-based post with a surprising tone, likely referencing US politics.",Unclear without additional context,Consider adding more context or a clear call-to-action,0.8,"{
+  ""content_lane"": ""other"",
+  ""topic"": ""us_politics"",
+  ""emotional_frame"": ""surprising"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""A short, image-based post with a surprising tone, likely referencing US politics."",
+  ""failure_reason"": ""Unclear without additional context"",
+  ""repurpose_recommendation"": ""Consider adding more context or a clear call-to-action"",
+  ""confidence"": 0.8
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lbsbjkm4ns2l,3lbsbjkm4ns2l,,2024-11-25T19:38:04.348Z,"As the Goods research team updates our site with the new FEC data, it’s no surprise that Tesla went from blue to dark red! Download the free Goods Unite Us app and see more!",0,,2,,2,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreifmgp74xaefr6fgsuwmhnl7ji4puji64wqfdple455lrjtfv5l5la,image,2026-09-29T23:03:24.976337+00:00,4,43.8,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:46:42.681541+00:00,company_callout,issue_breakdown,practical,politically_engaged,download_app,4,3,2,5,"Tesla's change in FEC data status is highlighted, with a call to download the Goods Unite Us app for more information.",,"Consider sharing a breakdown of the FEC data on the app, with a clear explanation of its significance.",0.9,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""issue_breakdown"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""download_app"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Tesla's change in FEC data status is highlighted, with a call to download the Goods Unite Us app for more information."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing a breakdown of the FEC data on the app, with a clear explanation of its significance."",
+  ""confidence"": 0.9
+}"
+bluesky,,https://bsky.app/profile/goodsuniteus.bsky.social/post/3lbiqtz32552r,3lbiqtz32552r,,2024-11-22T00:45:43.802Z,Download our app and start putting your money where your vote is.,1,,0,,1,0,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dkqyfczjnig7me5b7ez54jdw/bafkreia37ecucbvhvkiox7b7udgvgblzml4eaxxpescwcazbknloelfq4q,image,2026-09-29T23:03:24.976337+00:00,2,31.2,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:46:48.600647+00:00,company_callout,app_education,practical,general_consumers,download_app,5,3,2,5,Promoting an app for voting with money,None,Consider sharing a breakdown of how the app works or its benefits,1,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""app_education"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""general_consumers"",
+  ""cta_type"": ""download_app"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 5,
+  ""summary"": ""Promoting an app for voting with money"",
+  ""failure_reason"": ""None"",
+  ""repurpose_recommendation"": ""Consider sharing a breakdown of how the app works or its benefits"",
+  ""confidence"": 1.0
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/DcbQQGfoIfI,DcbQQGfoIfI,,2026-08-24,See how Adobe Systems feels about Support for DEI. Full breakdown: https://www.goodsuniteus.com/issues/-LX7m6-GWnjnsRXsZ93Z (link in bio) #GoodsUniteUs #VoteWithYourWallet #CorporatePolitics,3,0,,,,,https://scontent-lax3-2.cdninstagram.com/v/t51.82787-15/784518221_18357110149217534_7035324149280908274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3MDgzODk3MTY4NjA5NDc5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cmbCB-pstC0Q7kNvwG2fo9W&_nc_oc=Adoqm--d6zpWB-gsJ8Ay5lOA3VE5oi2iBDIXI55vCqeHb7BZ3D4kq3QkIdZX1wiMOMc&_nc_zt=23&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_gid=1M5q5gEsn6ql5hKH3m35lg&_nc_ss=79689&oh=00_AQMd97uyuxVDgZPL18ND7WY1wCF1bCKxiyRFJtqwpeCV3g&oe=6AC367A8,image,2026-09-30T23:57:12.518010+00:00,3,20.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:50:01.686599+00:00,issue_breakdown,corporate social responsibility,accountability,politically_engaged,link_in_bio,4,3,4,2,"Post criticizing Adobe Systems' stance on diversity, equity, and inclusion, with a link to a full breakdown.","Unclear call to action, potentially misleading",Consider rephrasing to clearly state the issue and desired action,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""corporate social responsibility"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 2,
+  ""summary"": ""Post criticizing Adobe Systems' stance on diversity, equity, and inclusion, with a link to a full breakdown."",
+  ""failure_reason"": ""Unclear call to action, potentially misleading"",
+  ""repurpose_recommendation"": ""Consider rephrasing to clearly state the issue and desired action"",
+  ""confidence"": 0.8
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/DcJpsZLo_ev,DcJpsZLo_ev,,2026-08-17,#politics #boycott #vote,6,0,,,,,https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/775603217_18356204155217534_959086807705819225_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2NTg4NDMxNzQ3OTIwNDc4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nBE0-VYoozUQ7kNvwEMkI56&_nc_oc=AdrAFpM7I1_mdEFfvSuPuSftkyuy6-xs9HnkmfuK4yMH-_687pUKWDHGr5SLr9hObLJCK6xTH0dAJo3qN2djTqRC&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=DnRXuPG_1MJBQC3V0GQ_IA&_nc_ss=7b689&oh=00_AQNx89Lh3i30pmkjx4NZxOCBrRi2ksfoD4gwaVOM7mUFFg&oe=6AC37B6F,image,2026-09-30T23:57:12.518954+00:00,6,60.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:50:07.958684+00:00,politician_issue_card,politics,urgent,politically_engaged,none,5,4,4,5,A post about politics with a call to action to boycott and vote.,Unclear,Use as a starting point for a more in-depth discussion on the issue.,0.8,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""urgent"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""none"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""A post about politics with a call to action to boycott and vote."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Use as a starting point for a more in-depth discussion on the issue."",
+  ""confidence"": 0.8
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/Dd1YH69nSyj,Dd1YH69nSyj,,2026-09-28,See how Johnson & Johnson feels about Israel. Download the free app to see more → link in bio (https://www.goodsuniteus.com/issues/-LX7m60z84aRskXqzjsL) #GoodsUniteUs #VoteWithYourWallet #CorporatePolitics,4,0,,,,,https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/828480816_18361678861217534_8195479257242432807_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NjIwNjM0MTgyNDUyMzQyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HpnxTXQo9mYQ7kNvwG_1a0v&_nc_oc=AdqrPOYad51g2HDJnJSANZPeVVyznDxGjibvMwi-WWTf_ZIG_UtZOTI0_5DE97H-UL4&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=xq_k8sgYWP1q1cOiNDBVRQ&_nc_ss=7a689&oh=00_AQMqNRKXyF1x9suhZyaDm5wZlK3Fmo_EH1TQvarptV336w&oe=6AC367FD,image,2026-09-30T23:57:12.520074+00:00,4,40.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:50:14.478568+00:00,company_callout,corporate_politics,accountability,politically_engaged,link_in_bio,4,3,4,5,"Johnson & Johnson's stance on Israel is highlighted, encouraging users to download an app to learn more.",unclear,modify the caption to be more concise and clear,0.8,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""corporate_politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""Johnson & Johnson's stance on Israel is highlighted, encouraging users to download an app to learn more."",
+  ""failure_reason"": ""unclear"",
+  ""repurpose_recommendation"": ""modify the caption to be more concise and clear"",
+  ""confidence"": 0.8
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/Ddtpr-Tl2lf,Ddtpr-Tl2lf,,2026-09-25,See where Jon Ossoff stands on Abortion & Reproductive Rights. Download the free app to see more → link in bio (https://www.goodsuniteus.com/politician/-LaTXI9KG9AvhyNOFzGZ) #GoodsUniteUs #VoteWithYourWallet #CorporatePolitics,7,0,,,,,https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/818813323_18361277758217534_3518325857807497657_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5NDAzMTc4NjI5MjYzNTk5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dWNndVlAbUoQ7kNvwEkGMGj&_nc_oc=Ado_deKne87VBU6l8cy4k72ALISAH1wb_dhSwTMM1yxt3Qk2uq-_Pmq4QQf5hznZhuI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=L5J7VrFA5iX8G3n8QiRg8A&_nc_ss=7aa8c&oh=00_AQOGAcEpKx4qVR8OqSmbGbU36q1huU_mcSs0BdibIWfXpg&oe=6AC3795D,image,2026-09-30T23:57:12.520593+00:00,7,70.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:50:21.002882+00:00,politician_issue_card,politics,accountability,politically_engaged,link_in_bio,5,4,4,5,"Post about politician's stance on abortion and reproductive rights, with a call to action to download an app.",Unclear,Consider adding more context or information about the politician's stance.,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""Post about politician's stance on abortion and reproductive rights, with a call to action to download an app."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider adding more context or information about the politician's stance."",
+  ""confidence"": 0.9
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/DdjoOK_IKv0,DdjoOK_IKv0,,2026-09-21,Vote with your wallet. Download the Goods app. #politics #vote #boycott,16,0,,,,,https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/808431063_18360801601217534_2965297980604245045_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5MTIwODQ4OTE4MjkwODUwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RSfUHQLjy0MQ7kNvwFqNMR1&_nc_oc=AdpAXcmmOF32tK0x9n7_py69Ub_9zu_G0X8HiSYh9lgPUpL212UvdaRlnZtoop4vEjw&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=b9oczuzG9c3K8l8spaKJ-w&_nc_ss=78689&oh=00_AQPnIJrJutGVDy_QEOdLrKPgqLAB7BzIwL-TYSJ2vd2Okw&oe=6AC368BD,image,2026-09-30T23:57:12.521126+00:00,16,90.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:50:27.701184+00:00,company_callout,issue_breakdown,values_based,politically_engaged,download_app,5,4,4,3,"The post encourages users to vote with their wallets by downloading the Goods app, with a clear call-to-action and a hashtag that suggests a boycott.",Unclear,Consider rephrasing the call-to-action to be more inclusive and less confrontational.,0.9,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""issue_breakdown"",
+  ""emotional_frame"": ""values_based"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""download_app"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 3,
+  ""summary"": ""The post encourages users to vote with their wallets by downloading the Goods app, with a clear call-to-action and a hashtag that suggests a boycott."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Consider rephrasing the call-to-action to be more inclusive and less confrontational."",
+  ""confidence"": 0.9
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/DdjWf8kDaHC,DdjWf8kDaHC,,2026-09-21,See how Procter & Gamble feels about Universal Healthcare. Download the free app to see more → link in bio (https://www.goodsuniteus.com/issues/-LX7m60rvJvllJn9yJL6) #GoodsUniteUs #VoteWithYourWallet #CorporatePolitics,4,0,,,,,https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/795644378_18360783910217534_7600797834678201166_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MTEzMjY0NzEzNjc5NzEyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lZwYSbGVlVIQ7kNvwFNQdFI&_nc_oc=AdpQCtlsyTK6URpCs7ihmzP9x-18tiO-qbQOOLMc2HVoo1kmdrNragZR7WJ6PYmVwUY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=h70yDMS2CxKxD7hUK-FBPw&_nc_ss=7b689&oh=00_AQOKzdFy6N5fv737RCv0J0DRcD_IJLIVbmisaKz2RKPWpA&oe=6AC36307,image,2026-09-30T23:57:12.521652+00:00,4,40.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:50:34.662500+00:00,company_callout,corporate_politics,accountability,politically_engaged,link_in_bio,4,3,4,2,"Procter & Gamble's stance on Universal Healthcare, with a call to action to download an app and learn more.",Unclear call to action in the caption,Consider rephrasing the caption to make the call to action clearer,0.8,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""corporate_politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 2,
+  ""summary"": ""Procter & Gamble's stance on Universal Healthcare, with a call to action to download an app and learn more."",
+  ""failure_reason"": ""Unclear call to action in the caption"",
+  ""repurpose_recommendation"": ""Consider rephrasing the caption to make the call to action clearer"",
+  ""confidence"": 0.8
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/Ddb_ua-DzEL,Ddb_ua-DzEL,,2026-09-18,See where Laura Gillen stands on Support for DEI. Download the free app to see more → link in bio (https://www.goodsuniteus.com/politician/-Oqo8\_BMQ-4gKftoniGA) #GoodsUniteUs #VoteWithYourWallet #CorporatePolitics,5,0,,,,,https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/813949086_18360403198217534_7863415022491103556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk4OTA2MjE2MTk1MTMwNTk5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=g2VwEiJeyesQ7kNvwEhGI8E&_nc_oc=AdrMuhCR5wzcsiXyFEyXCVqe7azJUuyCUZ4PTQo8PlaJH240t5tpcCy3mTcwpI_S_c0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=9ZP_FkyLL3ofLoF6TNUTgw&_nc_ss=78a8c&oh=00_AQPuJnLsesCBKJhK4QQqcQiE99Qx0fA77Iyh0t1DBH2nLA&oe=6AC364B0,image,2026-09-30T23:57:12.522221+00:00,5,50.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:50:41.410709+00:00,politician_issue_card,corporate politics,accountability,politically_engaged,link_in_bio,5,4,4,5,"Post from politician's perspective on corporate politics, encouraging voters to use their wallets to hold corporations accountable.",Unclear,Use as a starting point for a more in-depth discussion on corporate politics and accountability.,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""corporate politics"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""Post from politician's perspective on corporate politics, encouraging voters to use their wallets to hold corporations accountable."",
+  ""failure_reason"": ""Unclear"",
+  ""repurpose_recommendation"": ""Use as a starting point for a more in-depth discussion on corporate politics and accountability."",
+  ""confidence"": 0.9
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/DdR8FZqlM-2,DdR8FZqlM-2,,2026-09-14,See how Progressive feels about LGBTQ Rights. Full breakdown: https://www.goodsuniteus.com/issues/-LX7m60\_y5uDkDSt5eaK (link in bio) #GoodsUniteUs #VoteWithYourWallet #CorporatePolitics,8,0,,,,,https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/809876385_18359920834217534_553477952713238975_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk4NjIzMTM5OTE0NTU5MDcxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=q3yI4FzLsmUQ7kNvwHa5tQ_&_nc_oc=AdoNe7jzhU8HZEpNVhyPp6hyHyNVWyu4AtwKCsOOnywBKHR9mA2xSluyZKP-5jQU9XM&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=zCXnegDM5akGQNPwIyzLIg&_nc_ss=7b689&oh=00_AQNIXJI5LAlm_coGadGq3X1kpyIKW8nXJE5zCwkJla49_w&oe=6AC34E86,image,2026-09-30T23:57:12.522760+00:00,8,80.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:50:47.476440+00:00,issue_breakdown,LGBTQ Rights,accountability,politically_engaged,link_in_bio,4,3,4,5,Progressive's stance on LGBTQ Rights with a link to a breakdown,unclear,consider adding more context or visuals,0.8,"{
+  ""content_lane"": ""issue_breakdown"",
+  ""topic"": ""LGBTQ Rights"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 4,
+  ""visual_score"": 5,
+  ""summary"": ""Progressive's stance on LGBTQ Rights with a link to a breakdown"",
+  ""failure_reason"": ""unclear"",
+  ""repurpose_recommendation"": ""consider adding more context or visuals"",
+  ""confidence"": 0.8
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/DcljdezIDrd,DcljdezIDrd,,2026-08-28,See where Janelle Bynum stands on Immigrant Rights. Full breakdown: https://www.goodsuniteus.com/politician/-ONWYIJDhUOB44Kc\_qkI (link in bio) #GoodsUniteUs #VoteWithYourWallet #CorporatePolitics,1,0,,,,,https://scontent-mia3-1.cdninstagram.com/v/t51.82787-15/785689310_18357632002217534_6861887020833018836_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk3MzczODIwMzc4NzA0OTY5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=c3amKHIPCpcQ7kNvwFewVsL&_nc_oc=AdpsX1uqHJLDLZe6vAHyoiqfPco3nPcO0X4AvjXUPh0jJWajoMhVgPzScevg8BSlk0A&_nc_zt=23&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_gid=J2shFNgxB40kvjn0HAgOIg&_nc_ss=7ba8c&oh=00_AQNNIm3H_sKmqDIG5DrTXoNvypdpncTIO-83CoHeWIaGYA&oe=6AC35465,image,2026-09-30T23:57:12.525139+00:00,1,10.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:50:53.886997+00:00,politician_issue_card,immigrant_rights,accountability,politically_engaged,link_in_bio,5,4,4,3,Post about a politician's stance on immigrant rights with a link to a breakdown.,,Consider sharing the breakdown link on other platforms to reach a broader audience.,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""immigrant_rights"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 3,
+  ""summary"": ""Post about a politician's stance on immigrant rights with a link to a breakdown."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing the breakdown link on other platforms to reach a broader audience."",
+  ""confidence"": 0.9
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/Dcbd61QIaAh,Dcbd61QIaAh,,2026-08-24,Download the Goods Unite Us app and check out how the brands you buy affect our elections. #politics #boycott #money,76,,,,,,https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/786166793_18357124102217534_6590893989090432817_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk3MDg5OTA4MjcxNDY1MjcwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTU3Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vXsiIibqR1YQ7kNvwG8LtX0&_nc_oc=AdqnSSpOGLzp8UXIoncUTZJpU7mnbmJtx9gSq78J_h1Gf8q-MGIntSyweh2SZuwADbCdagJ0aTP0Afnk7HignVcW&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=6CLodh-Kj8QFXM9IeDCGMg&_nc_ss=7b689&oh=00_AQO4h39u1nbMEM9pSQUpPJgs2VVcDkNMZOft7IgXwVEDiA&oe=6AC37F78,image,2026-09-30T23:57:12.526256+00:00,76,100.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:51:00.052754+00:00,company_callout,issue_breakdown,practical,politically_engaged,download_app,4,4,3,5,Promoting a mobile app that helps users understand the impact of their purchases on elections.,,Consider promoting the app on other social media platforms to reach a broader audience.,0.9,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""issue_breakdown"",
+  ""emotional_frame"": ""practical"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""download_app"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 5,
+  ""summary"": ""Promoting a mobile app that helps users understand the impact of their purchases on elections."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider promoting the app on other social media platforms to reach a broader audience."",
+  ""confidence"": 0.9
+}"
+instagram,goodsuniteus,https://www.instagram.com/p/DcTh5dsnGGa,DcTh5dsnGGa,,2026-08-21,See where DELIA RAMIREZ stands on Gun Control. Full breakdown: https://www.goodsuniteus.com/politician/-ODbZYsKB5qNrW4CmjxT (link in bio) #GoodsUniteUs #VoteWithYourWallet #CorporatePolitics,1,0,,,,,https://scontent-msp1-1.cdninstagram.com/v/t51.82787-15/783617796_18356723047217534_2815295314135099550_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2ODY2NDc4MTA3NTUzODMzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2fquNSWmYtoQ7kNvwHIOR-B&_nc_oc=AdosylQC3KyEDGREH7eGx8RaD8jVdpZQw78xdTmnIuc7xC4HbNEGixYTJGeJr-nPpy4&_nc_zt=23&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_gid=U9975R-aP_mDFGvjJfkwAg&_nc_ss=7a689&oh=00_AQPpl2hRTh0ZP4U-l4mxT8vuLe9dEtlYHhZwnGKwyGVspg&oe=6AC35942,image,2026-09-30T23:57:12.526922+00:00,1,10.0,complete,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:51:05.951220+00:00,politician_issue_card,gun_control,accountability,politically_engaged,link_in_bio,5,4,4,3,Post about politician's stance on gun control with link to full breakdown,none,consider sharing on other platforms,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""gun_control"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 4,
+  ""visual_score"": 3,
+  ""summary"": ""Post about politician's stance on gun control with link to full breakdown"",
+  ""failure_reason"": ""none"",
+  ""repurpose_recommendation"": ""consider sharing on other platforms"",
+  ""confidence"": 0.9
+}"
+threads,goodsuniteus,https://www.threads.com/@goodsuniteus/post/Dd4eFB3HzKK,Dd4eFB3HzKK,3997076956282565258,,"BREAKING: Reid Hoffman gave $10,000,000 on June 30 to Lone Star Rising PAC, a Democratic super PAC backing James Talarico. See where LinkedIn's money goes at https://goodsuniteus.com/company/-LX7m62fCQSl_Pz_-jJT",,,,,,,,text,2026-09-30T23:57:12.587800+00:00,,,content_only,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:51:12.744363+00:00,politician_issue_card,politics,informational,politically_engaged,link_in_bio,5,4,3,1,Breaking news about Reid Hoffman's donation to a Democratic super PAC,,consider adding an image or visual element to enhance shareability,1,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 1,
+  ""summary"": ""Breaking news about Reid Hoffman's donation to a Democratic super PAC"",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""consider adding an image or visual element to enhance shareability"",
+  ""confidence"": 1
+}"
+threads,goodsuniteus,https://www.threads.com/@goodsuniteus/post/Dd2u1KKEbEi,Dd2u1KKEbEi,3996587682516021538,,"BREAKING: Michael Bloomberg gave $2,500,000 on July 28 to 314 Action Fund, a Democratic hybrid PAC. See where Bloomberg LP's money goes at https://goodsuniteus.com/company/-LX7m5zrQEQQ4WjIOkQz",,,,,,,,text,2026-09-30T23:57:12.622691+00:00,,,content_only,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:51:19.254234+00:00,politician_issue_card,politics,informational,politically_engaged,link_in_bio,5,4,3,1,Breaking news about Michael Bloomberg's donation to 314 Action Fund,,consider adding an image or visual element to enhance shareability,1,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""politics"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""link_in_bio"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 1,
+  ""summary"": ""Breaking news about Michael Bloomberg's donation to 314 Action Fund"",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""consider adding an image or visual element to enhance shareability"",
+  ""confidence"": 1
+}"
+threads,goodsuniteus,https://www.threads.com/@goodsuniteus/post/Dd1YGmvIPOf,Dd1YGmvIPOf,3996206251387188127,,See how Johnson & Johnson feels about Union Support. Download the free app to see more. https://www.goodsuniteus.com/issues/-LX7m60z84aRskXqzjsL,,,,,,,,text,2026-09-30T23:57:12.658099+00:00,,,content_only,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:51:26.072796+00:00,company_callout,union_support,accountability,politically_engaged,download_app,4,3,2,1,"Johnson & Johnson's stance on union support is called out, with a link to download an app for more information.",Unclear metrics,Consider adding a visual element to increase engagement,0.8,"{
+  ""content_lane"": ""company_callout"",
+  ""topic"": ""union_support"",
+  ""emotional_frame"": ""accountability"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""download_app"",
+  ""clarity_score"": 4,
+  ""shareability_score"": 3,
+  ""risk_score"": 2,
+  ""visual_score"": 1,
+  ""summary"": ""Johnson & Johnson's stance on union support is called out, with a link to download an app for more information."",
+  ""failure_reason"": ""Unclear metrics"",
+  ""repurpose_recommendation"": ""Consider adding a visual element to increase engagement"",
+  ""confidence"": 0.8
+}"
+threads,goodsuniteus,https://www.threads.com/@goodsuniteus/post/DdtprihloGB,DdtprihloGB,3994031756462686593,,See where Jon Ossoff stands on Immigrant Rights. Download the free app to see more. https://www.goodsuniteus.com/politician/-LaTXI9KG9AvhyNOFzGZ,,,,,,,,text,2026-09-30T23:57:12.709996+00:00,,,content_only,social_content_descriptive_v1,ollama:llama3.1:8b,2026-10-01T12:51:32.882757+00:00,politician_issue_card,immigrant rights,informational,politically_engaged,download_app,5,4,3,1,Post about Jon Ossoff's stance on immigrant rights with a call to download an app for more information.,,Consider sharing on other platforms to reach a broader audience.,0.9,"{
+  ""content_lane"": ""politician_issue_card"",
+  ""topic"": ""immigrant rights"",
+  ""emotional_frame"": ""informational"",
+  ""audience"": ""politically_engaged"",
+  ""cta_type"": ""download_app"",
+  ""clarity_score"": 5,
+  ""shareability_score"": 4,
+  ""risk_score"": 3,
+  ""visual_score"": 1,
+  ""summary"": ""Post about Jon Ossoff's stance on immigrant rights with a call to download an app for more information."",
+  ""failure_reason"": """",
+  ""repurpose_recommendation"": ""Consider sharing on other platforms to reach a broader audience."",
+  ""confidence"": 0.9
+}"

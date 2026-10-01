@@ -1,0 +1,85 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated project orbit</title>
+  <desc id="desc">Animated orbit showing Jennisha Martin's projects around a central data and AI hub.</desc>
+  <defs>
+    <radialGradient id="center" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(500 180) rotate(90) scale(165 310)">
+      <stop stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#7C3AED" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="360" rx="28" fill="#020617"/>
+  <rect width="1000" height="360" rx="28" fill="url(#center)"/>
+
+  <g opacity="0.28" stroke="#94A3B8">
+    <ellipse cx="500" cy="180" rx="360" ry="112"/>
+    <ellipse cx="500" cy="180" rx="285" ry="150" transform="rotate(18 500 180)"/>
+    <ellipse cx="500" cy="180" rx="285" ry="150" transform="rotate(-18 500 180)"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle cx="500" cy="180" r="72" fill="#0F172A" stroke="#38BDF8" stroke-width="2"/>
+    <circle cx="500" cy="180" r="46" fill="#111827" stroke="#A78BFA" stroke-width="2">
+      <animate attributeName="r" values="42;52;42" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="500" y="172" fill="#E0F2FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" text-anchor="middle">Data + AI</text>
+    <text x="500" y="200" fill="#BAE6FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">builder hub</text>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 500 180" to="360 500 180" dur="22s" repeatCount="indefinite"/>
+      <g transform="translate(500 68)">
+        <rect x="-82" y="-31" width="164" height="62" rx="18" fill="#172554" stroke="#38BDF8"/>
+        <text y="-5" fill="#E0F2FE" font-size="18" font-weight="800">🤖 AutoMend</text>
+        <text y="18" fill="#93C5FD" font-size="12">Self-healing MLOps</text>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="22s" repeatCount="indefinite" additive="sum"/>
+      </g>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="90 500 180" to="450 500 180" dur="26s" repeatCount="indefinite"/>
+      <g transform="translate(860 180)">
+        <rect x="-84" y="-31" width="168" height="62" rx="18" fill="#1E1B4B" stroke="#A78BFA"/>
+        <text y="-5" fill="#EDE9FE" font-size="18" font-weight="800">📦 SupplyFlow</text>
+        <text y="18" fill="#C4B5FD" font-size="12">AWS analytics</text>
+        <animateTransform attributeName="transform" type="rotate" from="-90" to="-450" dur="26s" repeatCount="indefinite" additive="sum"/>
+      </g>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="180 500 180" to="540 500 180" dur="24s" repeatCount="indefinite"/>
+      <g transform="translate(500 292)">
+        <rect x="-82" y="-31" width="164" height="62" rx="18" fill="#164E63" stroke="#22D3EE"/>
+        <text y="-5" fill="#CFFAFE" font-size="18" font-weight="800">🏥 HealthSync</text>
+        <text y="18" fill="#A5F3FC" font-size="12">Healthcare insights</text>
+        <animateTransform attributeName="transform" type="rotate" from="-180" to="-540" dur="24s" repeatCount="indefinite" additive="sum"/>
+      </g>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="270 500 180" to="630 500 180" dur="28s" repeatCount="indefinite"/>
+      <g transform="translate(140 180)">
+        <rect x="-82" y="-31" width="164" height="62" rx="18" fill="#4C1D95" stroke="#F472B6"/>
+        <text y="-5" fill="#FCE7F3" font-size="18" font-weight="800">📈 TweetPulse</text>
+        <text y="18" fill="#F9A8D4" font-size="12">Real-time trends</text>
+        <animateTransform attributeName="transform" type="rotate" from="-270" to="-630" dur="28s" repeatCount="indefinite" additive="sum"/>
+      </g>
+    </g>
+  </g>
+
+  <g opacity="0.85">
+    <circle cx="500" cy="180" r="4" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

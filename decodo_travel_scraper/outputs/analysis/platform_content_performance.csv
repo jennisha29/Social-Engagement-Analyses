@@ -1,0 +1,11 @@
+platform,content_type,post_count,avg_total_engagements,median_total_engagements,avg_platform_percentile,top_quartile_posts
+bluesky,breaking_donation_alert,4,2.5,1.5,28.4,0
+bluesky,company_card,13,2.2,1.0,28.3,0
+bluesky,image_post,38,26.0,8.5,62.3,14
+bluesky,politician_card,13,1.1,1.0,20.3,0
+bluesky,text_post,29,23.7,16.0,67.8,11
+instagram,app_download_prompt,1,16.0,16.0,90.0,1
+instagram,company_card,2,4.0,4.0,40.0,0
+instagram,image_post,2,41.0,41.0,80.0,1
+instagram,issue_breakdown,4,3.2,2.0,30.0,1
+instagram,politician_card,2,6.0,6.0,60.0,0

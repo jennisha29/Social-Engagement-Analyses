@@ -1,0 +1,49 @@
+field,description,looker_type_hint
+post_key,Stable platform:post_id key for joins and row identity.,Text
+platform,Social platform.,Text
+author_handle,,Text
+post_id,,Text
+threads_internal_id,,Text
+post_url,,Text
+published_at,,Date & Time
+published_date,,Date
+published_month,,Text
+published_year,,Text
+published_weekday,,Text
+published_hour_utc,,Text
+post_age_days,,Number
+caption_preview,"Cleaned post text, truncated for reporting tables.",Text
+caption_word_count,,Number
+caption_length_bucket,,Text
+media_type,,Text
+media_bucket,,Text
+has_image,,Boolean
+has_link,,Boolean
+image_url,,Text
+data_quality,,Text
+metric_available,True when at least one engagement metric exists.,Boolean
+likes,,Number
+comments,,Number
+replies,,Number
+shares,,Number
+reposts,,Number
+quotes,,Number
+total_engagements,Sum of available platform-appropriate engagement metrics.,Number
+platform_percentile,Within-platform performance percentile from 0 to 100.,Number
+performance_band,Human-readable band derived from platform_percentile.,Text
+content_lane,LLM descriptive content format classification.,Text
+topic,,Text
+emotional_frame,LLM descriptive emotional frame classification.,Text
+audience,,Text
+cta_type,LLM descriptive CTA classification.,Text
+clarity_score,LLM 1-5 clarity score.,Number
+shareability_score,LLM 1-5 shareability score.,Number
+risk_score,LLM 1-5 brand/compliance risk score.,Number
+visual_score,LLM 1-5 visual strength score where image context exists.,Number
+llm_confidence,,Number
+llm_summary,,Text
+failure_reason,,Text
+repurpose_recommendation,,Text
+scraped_at,,Date & Time
+llm_classified_at,,Date & Time
+llm_model,,Text

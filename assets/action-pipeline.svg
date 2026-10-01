@@ -1,0 +1,77 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated action pipeline</title>
+  <desc id="desc">Animated pipeline showing build, orchestrate, model, visualize, and automate stages.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="90" y1="110" x2="910" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="220" rx="28" fill="url(#bg)"/>
+  <text x="500" y="42" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="900" text-anchor="middle">Action Loop</text>
+  <text x="500" y="68" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">from raw signal to automated impact</text>
+
+  <path d="M105 120H895" stroke="url(#flow)" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+  <path d="M105 120H895" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 26" opacity="0.9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-220" dur="3.5s" repeatCount="indefinite"/>
+  </path>
+
+  <g filter="url(#glow)">
+    <circle r="8" fill="#38BDF8">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M105 120H895"/>
+    </circle>
+    <circle r="7" fill="#A78BFA">
+      <animateMotion dur="4s" begin="1.3s" repeatCount="indefinite" path="M105 120H895"/>
+    </circle>
+    <circle r="6" fill="#F472B6">
+      <animateMotion dur="4s" begin="2.6s" repeatCount="indefinite" path="M105 120H895"/>
+    </circle>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(120 120)">
+      <circle r="34" fill="#172554" stroke="#38BDF8" stroke-width="2"/>
+      <text y="6" font-size="24">🧱</text>
+      <text y="62" fill="#DBEAFE" font-size="14" font-weight="700">Build</text>
+      <animateTransform attributeName="transform" type="translate" values="120 120;120 108;120 120" dur="2.4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(310 120)">
+      <circle r="34" fill="#164E63" stroke="#22D3EE" stroke-width="2"/>
+      <text y="6" font-size="24">🌀</text>
+      <text y="62" fill="#CFFAFE" font-size="14" font-weight="700">Orchestrate</text>
+      <animateTransform attributeName="transform" type="translate" values="310 120;310 132;310 120" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(500 120)">
+      <circle r="34" fill="#312E81" stroke="#A78BFA" stroke-width="2"/>
+      <text y="6" font-size="24">🏗️</text>
+      <text y="62" fill="#EDE9FE" font-size="14" font-weight="700">Model</text>
+      <animateTransform attributeName="transform" type="translate" values="500 120;500 108;500 120" dur="2.5s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(690 120)">
+      <circle r="34" fill="#422006" stroke="#FACC15" stroke-width="2"/>
+      <text y="6" font-size="24">📈</text>
+      <text y="62" fill="#FEF3C7" font-size="14" font-weight="700">Visualize</text>
+      <animateTransform attributeName="transform" type="translate" values="690 120;690 132;690 120" dur="2.7s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(880 120)">
+      <circle r="34" fill="#4C1D95" stroke="#F472B6" stroke-width="2"/>
+      <text y="6" font-size="24">🤖</text>
+      <text y="62" fill="#FCE7F3" font-size="14" font-weight="700">Automate</text>
+      <animateTransform attributeName="transform" type="translate" values="880 120;880 108;880 120" dur="2.3s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Jennisha Martin - Data Engineer and Applied AI Engineer portfolio with projects, experience, resume, and personalized chatbot."
+    />
+    <meta name="theme-color" content="#ffffff" />
+    <title>Jennisha Martin | Data Engineer Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header" data-header>
+      <nav class="nav-shell" aria-label="Primary navigation">
+        <a class="brand" href="#home" aria-label="Jennisha Martin home">Jennisha Martin</a>
+
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">
+          <span class="sr-only">Toggle menu</span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <div class="nav-links" id="primary-nav" data-nav>
+          <a href="#home">Home</a>
+          <a href="#about">About</a>
+          <a href="#projects">Projects</a>
+          <a href="#experience">Experience</a>
+          <a href="assets/Jennisha_Martin_DataEngineer_Resume.pdf">Resume</a>
+          <a href="#contact">Contact</a>
+          <a class="nav-icon" href="https://github.com/jennisha-martin" aria-label="GitHub">GH</a>
+          <a class="nav-icon" href="http://www.linkedin.com/in/jennisha-martin" aria-label="LinkedIn">in</a>
+          <a class="outline-button small" href="mailto:jennishamartin163@gmail.com">Get In Touch</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="hero" id="home">
+        <div class="hero-shell">
+          <div class="portrait-card" aria-label="Jennisha Martin data engineer portrait illustration">
+            <div class="portrait-frame">
+              <img src="assets/jennisha-animated-data-heroine.svg" alt="" />
+            </div>
+            <div class="availability-card">
+              <span></span>
+              Open to Data Engineering, Analytics Engineering, and Applied AI roles
+            </div>
+          </div>
+
+          <div class="hero-copy">
+            <p class="eyebrow">Data Engineer · Applied AI Builder · Boston, MA</p>
+            <h1>Hi, I’m Jennisha!</h1>
+            <p>
+              I build scalable ETL pipelines, dimensional data models, analytics platforms, and AI workflows that
+              turn messy data into reliable business decisions.
+            </p>
+            <p>
+              My work combines Python, SQL, PySpark, Snowflake, AWS, Airflow, dbt, BI dashboards, and production AI
+              systems with RAG, LangChain, LangGraph, and observability.
+            </p>
+            <div class="hero-actions">
+              <a class="solid-button" href="#projects">View Projects</a>
+              <a class="outline-button dark" href="assets/Jennisha_Martin_DataEngineer_Resume.pdf" download>
+                Download Resume
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section intro-section" id="about">
+        <div class="section-heading">
+          <p class="section-label">About</p>
+          <h2>Engineer for dependable data systems and intelligent workflows.</h2>
+        </div>
+        <div class="about-grid">
+          <article class="about-card large">
+            <h3>What I bring</h3>
+            <p>
+              3+ years of professional experience designing large-scale ETL pipelines, distributed data architectures,
+              data marts, BI dashboards, and ML-integrated workflows across healthcare, enterprise, marketing, finance,
+              sales, and AI product domains.
+            </p>
+          </article>
+          <article class="about-card">
+            <strong>10M+</strong>
+            <span>ERP records ingested through AWS Glue, PySpark, HDFS, SQL, and Snowflake.</span>
+          </article>
+          <article class="about-card">
+            <strong>25+</strong>
+            <span>Tableau dashboards shipped for finance, marketing, and sales leadership.</span>
+          </article>
+          <article class="about-card">
+            <strong>40%</strong>
+            <span>ML incident response improvement through AutoMend remediation workflows.</span>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="projects">
+        <div class="section-heading">
+          <p class="section-label">Projects</p>
+          <h2>Selected builds with real outcomes.</h2>
+        </div>
+        <div class="project-list">
+          <article class="project-row">
+            <div>
+              <span>01</span>
+              <h3>AutoMend</h3>
+              <p>
+                Autonomous MLOps remediation platform using BERT and Llama-3 to detect and resolve ML incidents
+                across six datasets.
+              </p>
+            </div>
+            <ul>
+              <li>3rd place at Google Boston</li>
+              <li>40% faster incident response</li>
+              <li>Airflow, Ray, Polars, Docker, DVC, Fairlearn</li>
+            </ul>
+          </article>
+
+          <article class="project-row">
+            <div>
+              <span>02</span>
+              <h3>SupplyFlow</h3>
+              <p>
+                Serverless AWS supply-chain analytics platform transforming logistics and geospatial data into a
+                nine-table Redshift warehouse.
+              </p>
+              <a class="text-link" href="supplyflow/README.md">View project build →</a>
+            </div>
+            <ul>
+              <li>AWS S3, Lambda, Glue, Redshift, PySpark</li>
+              <li>Snowflake-schema warehouse</li>
+              <li>Power BI profitability and carrier dashboards</li>
+            </ul>
+          </article>
+
+          <article class="project-row">
+            <div>
+              <span>03</span>
+              <h3>HealthSync</h3>
+              <p>
+                Healthcare claims pipeline ingesting CMS Medicare data into Snowflake with medallion architecture,
+                dbt models, and Looker Studio analytics.
+              </p>
+            </div>
+            <ul>
+              <li>Opioid overprescription analysis</li>
+              <li>Duplicate-claim pattern detection</li>
+              <li>Python, SQL, dbt, Snowflake, AWS S3</li>
+            </ul>
+          </article>
+
+          <article class="project-row">
+            <div>
+              <span>04</span>
+              <h3>TweetPulse</h3>
+              <p>
+                Real-time Twitter ingestion and analytics pipeline streaming feeds into Snowflake via Azure Blob
+                Storage, EventGrid, and Snowpipe.
+              </p>
+            </div>
+            <ul>
+              <li>30-minute dashboard refresh</li>
+              <li>Engagement, trends, and sentiment reporting</li>
+              <li>Python, Azure, Snowpipe, Snowflake</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section skill-section" id="skills">
+        <div class="section-heading">
+          <p class="section-label">Skills</p>
+          <h2>Modern data stack, from pipelines to productized AI.</h2>
+        </div>
+        <div class="skill-grid">
+          <article>
+            <h3>Languages</h3>
+            <p>Python, SQL, Java, C, C++, JavaScript, Bash</p>
+          </article>
+          <article>
+            <h3>Data Engineering</h3>
+            <p>Airflow, PySpark, Hadoop, HDFS, Databricks, dbt, AWS Glue, Snowpipe, Data Modeling</p>
+          </article>
+          <article>
+            <h3>Cloud + DevOps</h3>
+            <p>AWS S3, EC2, Lambda, Terraform, Docker, Kubernetes, Jenkins, CI/CD, Git</p>
+          </article>
+          <article>
+            <h3>Databases</h3>
+            <p>MySQL, PostgreSQL, Snowflake, Redshift, SQL Server, Azure SQL DB, MongoDB</p>
+          </article>
+          <article>
+            <h3>AI + ML</h3>
+            <p>Scikit-Learn, SpaCy, PyTorch, LangChain, LangGraph, RAG, Langfuse, LiteLLM, Pinecone</p>
+          </article>
+          <article>
+            <h3>BI + Analytics</h3>
+            <p>Power BI, Tableau, Looker Studio, DAX, SSAS, SSRS, Power Query, KPIs, A/B Testing</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="experience">
+        <div class="section-heading">
+          <p class="section-label">Experience</p>
+          <h2>Professional path.</h2>
+        </div>
+        <div class="experience-list">
+          <article>
+            <time>Sep 2025 - Dec 2025</time>
+            <div>
+              <h3>AI Engineer Intern · IpserLab</h3>
+              <p>
+                Built mortgage prequalification AI voice assistant workflows with LiveKit, Deepgram, Twilio SIP,
+                LangGraph, PostgreSQL checkpointing, FastAPI, Node.js, Langfuse, Prometheus, and Grafana.
+              </p>
+            </div>
+          </article>
+          <article>
+            <time>Aug 2021 - Dec 2023</time>
+            <div>
+              <h3>Data Engineer · Infosys Limited</h3>
+              <p>
+                Built large-scale ETL pipelines, dimensional schemas, data marts, optimized SQL workflows, Airflow
+                orchestration, Jenkins CI/CD, and executive Tableau dashboards.
+              </p>
+            </div>
+          </article>
+          <article>
+            <time>Feb 2021 - Jun 2021</time>
+            <div>
+              <h3>Data Engineer Intern · Infosys Limited</h3>
+              <p>
+                Engineered marketing analytics pipelines with Python and PostgreSQL, MongoDB metadata tracking, and
+                Power BI reporting that reduced reporting effort by 30%.
+              </p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section education-section">
+        <div class="mini-card">
+          <p class="section-label">Education</p>
+          <h3>Northeastern University</h3>
+          <p>Master’s in Computer Science · Khoury College of Computer Sciences · Boston, MA</p>
+        </div>
+        <div class="mini-card">
+          <p class="section-label">Recognition</p>
+          <h3>Google Boston + Infosys</h3>
+          <p>3rd Place at Google Boston, Infosys Rising Star Award, and Infosys Insta Award.</p>
+        </div>
+      </section>
+
+      <section class="contact-section" id="contact">
+        <div>
+          <p class="section-label">Contact</p>
+          <h2>Let’s build a data system that people can actually trust.</h2>
+          <p>
+            Ask the chatbot about my work, or reach out directly for data engineering, analytics engineering, and
+            applied AI opportunities.
+          </p>
+        </div>
+        <div class="contact-links">
+          <a href="mailto:jennishamartin163@gmail.com">jennishamartin163@gmail.com</a>
+          <a href="tel:+18575063916">857-506-3916</a>
+          <a href="http://www.linkedin.com/in/jennisha-martin">LinkedIn</a>
+          <a href="https://github.com/jennisha-martin">GitHub</a>
+        </div>
+      </section>
+    </main>
+
+    <section class="chat-widget" aria-label="Jennisha portfolio chatbot" data-chat-widget>
+      <button class="chat-launcher" type="button" data-chat-toggle aria-expanded="false">
+        <span class="chat-dot"></span>
+        Let’s Chat!
+      </button>
+
+      <div class="chat-panel" data-chat-panel aria-hidden="true">
+        <div class="chat-header">
+          <div>
+            <strong>Ask JennishaBot</strong>
+            <span>Resume-aware assistant</span>
+          </div>
+          <button type="button" data-chat-close aria-label="Close chatbot">×</button>
+        </div>
+
+        <div class="chat-messages" data-chat-messages aria-live="polite">
+          <div class="message bot">
+            Hi! I can answer questions about Jennisha’s experience, projects, skills, education, awards, and contact
+            details. Try “What projects has she built?” or “Why should we hire her?”
+          </div>
+        </div>
+
+        <div class="quick-prompts" aria-label="Suggested chatbot questions">
+          <button type="button" data-prompt="Summarize Jennisha">Summary</button>
+          <button type="button" data-prompt="What are Jennisha's top projects?">Projects</button>
+          <button type="button" data-prompt="What skills does Jennisha have?">Skills</button>
+          <button type="button" data-prompt="How can I contact Jennisha?">Contact</button>
+        </div>
+
+        <form class="chat-form" data-chat-form>
+          <label class="sr-only" for="chat-input">Ask JennishaBot a question</label>
+          <input id="chat-input" data-chat-input type="text" placeholder="Ask about Jennisha..." autocomplete="off" />
+          <button type="submit">Send</button>
+        </form>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <p>© <span data-year></span> Jennisha Martin · Data Engineer · Applied AI Builder</p>
+    </footer>
+  </body>
+</html>

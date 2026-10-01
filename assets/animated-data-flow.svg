@@ -1,0 +1,89 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated data pipeline</title>
+  <desc id="desc">Animated data nodes flowing from raw data to pipelines, models, insights, and impact.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.48" stop-color="#172554"/>
+      <stop offset="1" stop-color="#581C87"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="140" x2="880" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="280" rx="28" fill="url(#bg)"/>
+  <g opacity="0.18">
+    <circle cx="130" cy="42" r="2" fill="#E0F2FE">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="835" cy="50" r="3" fill="#F5D0FE">
+      <animate attributeName="opacity" values="1;0.15;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="745" cy="230" r="2" fill="#BAE6FD">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="230" cy="220" r="3" fill="#DDD6FE">
+      <animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path d="M120 140 C230 65 330 215 440 140 S660 65 770 140 S850 190 880 140" stroke="url(#line)" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M120 140 C230 65 330 215 440 140 S660 65 770 140 S850 190 880 140" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-dasharray="16 24" opacity="0.85">
+    <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="3s" repeatCount="indefinite"/>
+  </path>
+
+  <g filter="url(#glow)">
+    <circle r="8" fill="#38BDF8">
+      <animateMotion dur="4.5s" repeatCount="indefinite" path="M120 140 C230 65 330 215 440 140 S660 65 770 140 S850 190 880 140"/>
+    </circle>
+    <circle r="6" fill="#A78BFA">
+      <animateMotion dur="4.5s" begin="1.5s" repeatCount="indefinite" path="M120 140 C230 65 330 215 440 140 S660 65 770 140 S850 190 880 140"/>
+    </circle>
+    <circle r="5" fill="#F472B6">
+      <animateMotion dur="4.5s" begin="3s" repeatCount="indefinite" path="M120 140 C230 65 330 215 440 140 S660 65 770 140 S850 190 880 140"/>
+    </circle>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g>
+      <rect x="50" y="92" width="140" height="96" rx="18" fill="#0F172A" opacity="0.92" stroke="#38BDF8"/>
+      <text x="120" y="132" fill="#E0F2FE" font-size="18" font-weight="700">Raw Data</text>
+      <text x="120" y="158" fill="#93C5FD" font-size="13">events • files • APIs</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <rect x="250" y="92" width="140" height="96" rx="18" fill="#0F172A" opacity="0.92" stroke="#60A5FA"/>
+      <text x="320" y="132" fill="#DBEAFE" font-size="18" font-weight="700">Pipelines</text>
+      <text x="320" y="158" fill="#93C5FD" font-size="13">Airflow • Spark</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="3.2s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <rect x="430" y="92" width="140" height="96" rx="18" fill="#0F172A" opacity="0.92" stroke="#A78BFA"/>
+      <text x="500" y="132" fill="#EDE9FE" font-size="18" font-weight="700">Models</text>
+      <text x="500" y="158" fill="#C4B5FD" font-size="13">dbt • Snowflake</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.4s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <rect x="610" y="92" width="140" height="96" rx="18" fill="#0F172A" opacity="0.92" stroke="#C084FC"/>
+      <text x="680" y="132" fill="#F3E8FF" font-size="18" font-weight="700">Insights</text>
+      <text x="680" y="158" fill="#D8B4FE" font-size="13">BI • KPIs • ML</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 7;0 0" dur="3.1s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <rect x="810" y="92" width="140" height="96" rx="18" fill="#0F172A" opacity="0.92" stroke="#F472B6"/>
+      <text x="880" y="132" fill="#FCE7F3" font-size="18" font-weight="700">Impact</text>
+      <text x="880" y="158" fill="#F9A8D4" font-size="13">decisions • scale</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3.3s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

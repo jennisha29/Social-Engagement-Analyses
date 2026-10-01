@@ -1,0 +1,6 @@
+.env
+decodo_travel_scraper/.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "RTE001",
+        "carrier_id": "CAR001",
+        "origin_location_id": "LOC001",
+        "destination_location_id": "LOC021"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.0589, 42.3601],
+          [-74.0060, 40.7128]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "RTE002",
+        "carrier_id": "CAR003",
+        "origin_location_id": "LOC009",
+        "destination_location_id": "LOC030"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-118.2437, 34.0522],
+          [-122.3321, 47.6062]
+        ]
+      }
+    }
+  ]
+}

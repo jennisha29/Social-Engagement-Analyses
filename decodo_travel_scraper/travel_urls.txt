@@ -1,0 +1,6 @@
+# Replace these placeholders with permitted public travel pages.
+# One URL per line.
+https://www.instagram.com/goodsuniteus/?hl=en
+https://www.threads.com/@goodsuniteus?hl=en
+https://x.com/goodsuniteus
+https://bsky.app/profile/goodsuniteus.bsky.social

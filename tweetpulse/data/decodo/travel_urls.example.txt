@@ -1,0 +1,4 @@
+# Add permitted public travel pages here, one URL per line.
+# Examples below are placeholders; replace them with your actual target pages.
+https://example.com/travel-page
+https://example.com/hotel-page

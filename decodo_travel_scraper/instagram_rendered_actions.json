@@ -1,0 +1,15 @@
+[
+  {
+    "type": "wait",
+    "wait_time_s": 8
+  },
+  {
+    "type": "scroll",
+    "x": 0,
+    "y": 500
+  },
+  {
+    "type": "wait",
+    "wait_time_s": 2
+  }
+]

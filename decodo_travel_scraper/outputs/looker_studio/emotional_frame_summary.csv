@@ -1,0 +1,14 @@
+platform,emotional_frame,posts,posts_with_metrics,total_engagements,avg_engagements,median_engagements,avg_platform_percentile,avg_clarity_score,avg_shareability_score,avg_visual_score,avg_risk_score
+bluesky,accountability,13,13,417.0,32.08,17.0,68.18,4.23,3.38,3.62,3.77
+bluesky,informational,37,37,422.0,11.41,2.0,38.94,4.68,2.92,2.19,3.08
+bluesky,neutral,25,25,457.0,18.28,7.0,57.15,3.2,2.84,4.28,1.76
+bluesky,practical,10,10,207.0,20.7,12.5,61.67,4.5,3.2,5.0,2.0
+bluesky,surprising,4,4,18.0,4.5,3.5,38.25,3.5,3.0,4.25,2.5
+bluesky,urgent,2,2,78.0,39.0,39.0,67.15,4.5,3.5,3.5,3.5
+bluesky,values_based,6,6,129.0,21.5,17.0,70.13,4.5,3.83,5.0,2.0
+instagram,accountability,8,8,33.0,4.12,4.0,40.0,4.5,3.5,3.75,4.0
+instagram,practical,1,1,76.0,76.0,76.0,100.0,4.0,4.0,5.0,3.0
+instagram,urgent,1,1,6.0,6.0,6.0,60.0,5.0,4.0,5.0,4.0
+instagram,values_based,1,1,16.0,16.0,16.0,90.0,5.0,4.0,3.0,4.0
+threads,accountability,1,0,0.0,,,,4.0,3.0,1.0,2.0
+threads,informational,3,0,0.0,,,,5.0,4.0,1.0,3.0

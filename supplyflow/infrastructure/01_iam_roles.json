@@ -1,0 +1,36 @@
+{
+  "project": "SupplyFlow",
+  "region": "us-east-1",
+  "roles": [
+    {
+      "role_name": "AWSGlueServiceRole-SupplyFlow",
+      "trusted_service": "glue.amazonaws.com",
+      "managed_policies": [
+        "service-role/AWSGlueServiceRole"
+      ],
+      "inline_policy_summary": [
+        "Read raw supply-chain files from the S3 raw bucket",
+        "Write warehouse Parquet outputs to the S3 curated bucket",
+        "Write CloudWatch Logs for Glue job monitoring",
+        "Use Redshift temporary S3 directory when direct Redshift writes are enabled"
+      ]
+    },
+    {
+      "role_name": "SupplyFlowLambdaGlueStarterRole",
+      "trusted_service": "lambda.amazonaws.com",
+      "inline_policy_summary": [
+        "Read S3 event metadata",
+        "Start the configured AWS Glue ETL job",
+        "Write Lambda execution logs to CloudWatch"
+      ]
+    },
+    {
+      "role_name": "SupplyFlowRedshiftS3ReadRole",
+      "trusted_service": "redshift.amazonaws.com",
+      "inline_policy_summary": [
+        "Read curated warehouse Parquet files from S3",
+        "Support Redshift COPY into analytics schema tables"
+      ]
+    }
+  ]
+}

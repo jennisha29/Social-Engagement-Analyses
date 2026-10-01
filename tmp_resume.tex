@@ -1,0 +1,208 @@
+%-------------------------
+% Resume in LaTeX — compile with pdflatex
+%-------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{fontawesome5}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\definecolor{customlinkblue}{HTML}{3366CC}
+\usepackage[colorlinks=true, allcolors=customlinkblue]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+\usepackage{changepage}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% -------- Margins --------
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.57in}
+\addtolength{\textheight}{1.15in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\setlength{\parskip}{0pt}
+
+% -------- Section look --------
+\titleformat{\section}
+  {\bfseries\scshape\raggedright\large}
+  {}{0em}{}[\color{black}\titlerule \vspace{-3pt}]
+\titlespacing*{\section}{0pt}{9pt}{5pt}
+
+% -------- List spacing --------
+\setlist[itemize]{topsep=0pt, partopsep=0pt, parsep=0pt, itemsep=2pt}
+
+% -------- Helper macros --------
+\newcommand{\resumeItem}[1]{\item[\scriptsize$\bullet$]\small{#1}}
+
+\newcommand{\resumeSubheading}[4]{%
+  \item
+  \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & \textbf{#2} \\
+    \textit{\small #3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{1pt}
+}
+\newcommand{\resumeSubSubheading}[2]{%
+  \item
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+    \textit{\small #1} & \textit{\small #2} \\
+  \end{tabular*}\vspace{1pt}
+}
+\newcommand{\resumeProjectHeading}[2]{%
+  \item
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+    \small #1 & #2 \\
+  \end{tabular*}\vspace{1pt}
+}
+
+\newcommand{\resumeSubHeadingListStart}{%
+  \begin{itemize}[leftmargin=0in, label={}, topsep=0pt, itemsep=4pt]
+}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=1.6em, itemsep=2pt, label=\scriptsize$\bullet$]}
+\newcommand{\resumeItemListEnd}{\end{itemize}}
+
+\pdfgentounicode=1
+
+% ===================== CONTENT =====================
+\begin{document}
+
+\vspace*{-37pt}
+\begin{center}
+  {\Huge \scshape Jennisha Christina Martin} \\[0.2em]
+  {\normalsize
+  \faMapMarker*~Boston, MA \quad
+  \faPhone*~\href{tel:8575063916}{857-506-3916} \quad
+  \faEnvelope~\href{mailto:jennishamartin163@gmail.com}{jennishamartin163@gmail.com} \quad
+  \faLinkedin~\href{https://linkedin.com/in/jennisha-martin}{linkedin.com/in/jennisha-martin}
+  }
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{Northeastern University} & \textbf{Jan 2024 -- May 2026} \\
+  M.S. in Computer Science -- \textbf{Khoury College of Computer Sciences} & GPA: 3.82 / 4.0 \\
+\end{tabular*}
+
+\noindent {\small \textbf{Relevant Coursework:} \textit{Design Patterns, Algorithms, Machine Learning, Artificial Intelligence,}} \\
+\noindent {\small \hspace*{11.4em}\textit{Data Management and Processing, Web Development}}
+
+\vspace{2pt}
+
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{Anna University, Chennai, India} & \textbf{Jun 2017 -- Jun 2021} \\
+  B.E. in Computer Science and Engineering & GPA: 8.62 / 10.0 \\
+\end{tabular*}
+
+%-----------TECHNICAL SKILLS-----------
+\vspace{-5pt}
+\section{Skills}
+\vspace{2pt}
+\begin{itemize}[leftmargin=0in, label={}]
+  \small{\item{
+    \textbf{Languages:} Python, Java, Javascript, DAX, SQL \\[1.5pt]
+    \textbf{Databases:} MySQL, PostgreSQL, Snowflake, MongoDB \\[1.5pt]
+    \textbf{Web Technologies:} HTML, CSS, ReactJS, NodeJS \\[1.5pt]
+    \textbf{Libraries \& Frameworks:} NumPy, Pandas, Seaborn, OpenCV, scikit-learn, TensorFlow, PyTorch \\[1.5pt]
+    \textbf{Business Intelligence \& Analytics:} Power BI, Tableau, Looker, SSIS, SSAS, Data Modeling, ETL, KPI Development
+  }}
+\end{itemize}
+
+%-----------PROFESSIONAL EXPERIENCE-----------
+\vspace{-5pt}
+\section{Experience}
+\vspace{0.5pt}
+\resumeSubHeadingListStart
+\resumeSubheading
+    {Ipser Labs \textnormal{$|$ \textit{Data Analyst Intern}}}{Sep 2025 -- Dec 2025}
+    {}{} 
+\vspace{-17pt}
+     \resumeItemListStart
+     \resumeItem{Conducted exploratory data analysis on \textbf{100K+} user travel records using \textbf{Python (pandas, NumPy)} and \textbf{SQL} to identify behavioural and spend trends and build traveler personas for an AI‑based itinerary recommendation system.}
+    
+     \resumeItem{Developed BI dashboards to track budget estimates, user preference trends, trip spend metrics, and performance KPIs, reducing itinerary planning time by \textbf{30\%} and enhancing the overall travel planning experience for users.}
+     \resumeItemListEnd
+     \resumeSubheading
+       {Infosys Limited \textnormal{$|$ \textit{Senior Data Engineer}}}{Aug 2021 -- Dec 2023}
+       {}{}
+\vspace{-17pt}
+       \resumeItemListStart
+         \resumeItem{Built scalable data workflows and interactive \textbf{BI} dashboards using Python, SQL, \textbf{Snowflake}, Tableau and
+         PowerBI.}
+         \resumeItem{Analyzed and transformed \textbf{500,000+ records} from multiple data sources, identified performance
+         bottlenecks, and optimized pipelines, reducing data load time by \textbf{15\%} and significanlty improving user
+         experience.}
+         \resumeItem{Developed \textbf{25+} Business Intelligence reports in \textbf{Tableau} and \textbf{Power BI} for sales, marketing, and
+         finance
+         stakeholders, turning complex data into clear and actionable insights, improving data accessibility and efficiency
+         by \textbf{20\%.}}
+         \resumeItem{Managed the deployment and testing of \textbf{40+} Tableau dashboards on the Tableau Server, set up
+         incremental and full refresh schedules, and consistently monitored data flows to ensure reliable, real-time access
+         to critical KPIs for users.}
+        \resumeItemListEnd 
+    \resumeItemListEnd    
+\resumeSubHeadingListEnd
+
+%-----------Projects-----------
+\vspace{-5pt}
+\section{Projects}
+\vspace{0.5pt}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{ShareBuddy \textnormal{$|$ \textit{AWS Lambda, OpenRouter, Bedrock, Node.js, Tailwind CSS, shadcn}}}{Jan 2026 -- Present}
+{}{}
+\vspace{-17pt}
+\resumeItemListStart
+  \resumeItem{Developed ShareBuddy, a shared expense tracking platform that automates itemized bill splitting across group members through invoice parsing and preference-based cost allocation, using \textbf{Node js}, \textbf{Tailwind CSS}, \textbf{shadcn}, \textbf{OpenRouter}, and \textbf{Bedrock}.}
+  \resumeItem{Designed an asynchronous serverless pipeline using \textbf{AWS S3}, \textbf{SQS}, \textbf{SNS}, S3 Event Triggers, and AWS Lambda to enable scalable, event-driven invoice processing with \textbf{MongoDB}-based status tracking.}
+\resumeItemListEnd
+
+\resumeSubheading
+{StockPulse Analytics Platform \textnormal{$|$ \textit{Python, Airflow, Snowflake, dbt, Tableau}}}{Jan 2025 -- Mar 2025}
+{}{}
+\vspace{-17pt}
+\resumeItemListStart
+  \resumeItem{Built an end-to-end ELT pipeline using \textbf{Python} and \textbf{Airflow} to ingest daily stock data into \textbf{Snowflake}, transforming raw data through layered \textbf{dbt} models with automated quality checks and \textbf{GitHub Actions} CI/CD.}
+  \resumeItem{Developed interactive Tableau dashboards to monitor portfolio P\&L, cost basis, DCA performance, and moving average crossover trends, turning raw market data into actionable insights.}
+\resumeItemListEnd
+
+\resumeSubheading
+{MediOps \textnormal{$|$ \textit{GCP, Airflow, pySpark, BigQuery, Power BI}}}{Sep 2024 -- Dec 2024}
+{}{}
+\vspace{-17pt}
+\resumeItemListStart
+  \resumeItem{Built a healthcare revenue analytics platform that automates claims and billing data processing using \textbf{Airflow}-orchestrated \textbf{Spark} pipelines and star schema modeling in \textbf{BigQuery}.}
+  \resumeItem{Built interactive Power BI dashboards with custom \textbf{DAX} KPIs, enabling real-time tracking of claim denial rates, AR days, and provider performance with optimization via partitioning, clustering, and \textbf{CI/CD} automation.}
+\resumeItemListEnd
+
+\resumeSubheading
+{HealthSync \textnormal{$|$ \textit{Django, Python, SQL, Blockchain, Machine Learning}}}{Jan 2024 -- Mar 2024}
+{}{}
+\vspace{-17pt}
+\resumeItemListStart
+  \resumeItem{Spearheaded the development of a secure healthcare management platform with role-based access for admins, doctors, and patients, integrating \textbf{blockchain} transaction logging and USDT wallet payments for data integrity.}
+  \resumeItem{Implemented ML models (\textbf{Naive Bayes}, \textbf{KNN}, \textbf{Decision Tree}) for symptom-based disease prediction with end-to-end patient registration and treatment workflows using \textbf{Django} and \textbf{SQL}.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\end{document}

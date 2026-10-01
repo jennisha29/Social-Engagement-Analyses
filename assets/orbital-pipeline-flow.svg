@@ -1,0 +1,73 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Orbital pipeline flow</title>
+  <desc id="desc">Animated orbital pipeline showing raw data moving through lake, warehouse, BI, ML, and automation stages.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="orbit" x1="160" y1="180" x2="1040" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
+  <g opacity="0.18">
+    <ellipse cx="600" cy="180" rx="470" ry="110" stroke="#E0F2FE"/>
+    <ellipse cx="600" cy="180" rx="395" ry="145" stroke="#C4B5FD" transform="rotate(11 600 180)"/>
+    <ellipse cx="600" cy="180" rx="395" ry="145" stroke="#67E8F9" transform="rotate(-11 600 180)"/>
+  </g>
+
+  <path d="M120 180 C230 70 355 270 480 180 S725 70 850 180 S1030 280 1080 180" stroke="url(#orbit)" stroke-width="7" stroke-linecap="round" opacity="0.6"/>
+  <path d="M120 180 C230 70 355 270 480 180 S725 70 850 180 S1030 280 1080 180" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="16 26" opacity="0.9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+
+  <g filter="url(#glow)">
+    <circle r="9" fill="#38BDF8"><animateMotion dur="5s" repeatCount="indefinite" path="M120 180 C230 70 355 270 480 180 S725 70 850 180 S1030 280 1080 180"/></circle>
+    <circle r="7" fill="#A78BFA"><animateMotion dur="5s" begin="1.65s" repeatCount="indefinite" path="M120 180 C230 70 355 270 480 180 S725 70 850 180 S1030 280 1080 180"/></circle>
+    <circle r="6" fill="#F472B6"><animateMotion dur="5s" begin="3.3s" repeatCount="indefinite" path="M120 180 C230 70 355 270 480 180 S725 70 850 180 S1030 280 1080 180"/></circle>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="54" fill="#F8FAFC" font-size="28" font-weight="900">Pipeline Flight Path</text>
+    <text x="600" y="82" fill="#94A3B8" font-size="14" font-weight="700">data moves from signal → structure → insight → action</text>
+
+    <g transform="translate(135 180)">
+      <rect x="-74" y="-42" width="148" height="84" rx="18" fill="#0F172A" stroke="#38BDF8"/>
+      <text y="-6" font-size="25">🛰️</text><text y="24" fill="#E0F2FE" font-size="15" font-weight="900">Raw Signal</text>
+      <animateTransform attributeName="transform" type="translate" values="135 180;135 166;135 180" dur="2.6s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(355 180)">
+      <rect x="-74" y="-42" width="148" height="84" rx="18" fill="#0F172A" stroke="#22D3EE"/>
+      <text y="-6" font-size="25">🌊</text><text y="24" fill="#CFFAFE" font-size="15" font-weight="900">Data Lake</text>
+      <animateTransform attributeName="transform" type="translate" values="355 180;355 194;355 180" dur="2.9s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(600 180)">
+      <rect x="-82" y="-48" width="164" height="96" rx="20" fill="#111827" stroke="#A78BFA" stroke-width="2"/>
+      <text y="-8" font-size="28">🏗️</text><text y="25" fill="#EDE9FE" font-size="16" font-weight="900">Warehouse</text>
+      <text y="46" fill="#C4B5FD" font-size="11">modeled + trusted</text>
+      <animateTransform attributeName="transform" type="translate" values="600 180;600 164;600 180" dur="2.7s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(845 180)">
+      <rect x="-74" y="-42" width="148" height="84" rx="18" fill="#0F172A" stroke="#FACC15"/>
+      <text y="-6" font-size="25">📊</text><text y="24" fill="#FEF3C7" font-size="15" font-weight="900">BI Layer</text>
+      <animateTransform attributeName="transform" type="translate" values="845 180;845 194;845 180" dur="3s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(1065 180)">
+      <rect x="-74" y="-42" width="148" height="84" rx="18" fill="#0F172A" stroke="#F472B6"/>
+      <text y="-6" font-size="25">🤖</text><text y="24" fill="#FCE7F3" font-size="15" font-weight="900">AI Action</text>
+      <animateTransform attributeName="transform" type="translate" values="1065 180;1065 166;1065 180" dur="2.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

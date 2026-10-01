@@ -1,0 +1,7 @@
+carrier_id,mode,shipments,avg_delivery_days,on_time_failure_rate,damage_rate,total_shipping_cost
+CAR001,truckload,415,4.2964,0.3783,0.0241,129145.82
+CAR002,ltl,369,3.9919,0.3496,0.0271,97141.94
+CAR003,air,440,4.1705,0.3705,0.0159,327623.1
+CAR004,intermodal,434,4.3594,0.3871,0.0184,100555.15
+CAR005,truckload,425,4.2235,0.3812,0.0282,121094.8
+CAR006,ltl,417,4.3381,0.3549,0.0312,100260.39

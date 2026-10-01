@@ -1,0 +1,23 @@
+{
+  "project": "SupplyFlow",
+  "redshift_mode": "serverless-or-provisioned",
+  "database_name": "supplyflow",
+  "schema_name": "analytics",
+  "networking": {
+    "vpc": "Use the same VPC for Glue connection and Redshift workgroup when direct writes are enabled.",
+    "subnets": "Use private subnets with S3 access through NAT or VPC endpoint.",
+    "security_group_rules": [
+      {
+        "description": "Allow Glue job traffic to Redshift",
+        "port": 5439,
+        "protocol": "tcp",
+        "source": "Glue connection security group"
+      }
+    ]
+  },
+  "s3_paths": {
+    "raw_bucket": "s3://supplyflow-raw/raw/",
+    "curated_bucket": "s3://supplyflow-curated/warehouse/",
+    "redshift_temp_dir": "s3://supplyflow-curated/redshift-tmp/"
+  }
+}

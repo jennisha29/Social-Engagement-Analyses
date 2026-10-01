@@ -1,0 +1,33 @@
+location_id,city,state,region,latitude,longitude,location_type
+LOC001,Boston,MA,Northeast,42.45956,-70.91041,warehouse
+LOC002,New York,NY,Northeast,40.74797,-73.93563,warehouse
+LOC003,Atlanta,GA,Southeast,33.90971,-84.41152,warehouse
+LOC004,Miami,FL,Southeast,25.75481,-80.26553,warehouse
+LOC005,Chicago,IL,Midwest,41.99376,-87.68383,warehouse
+LOC006,Detroit,MI,Midwest,42.52185,-82.88318,warehouse
+LOC007,Dallas,TX,Southwest,32.98824,-96.91193,warehouse
+LOC008,Phoenix,AZ,Southwest,33.39691,-111.91735,warehouse
+LOC009,Los Angeles,CA,West,34.01294,-118.3237,warehouse
+LOC010,Seattle,WA,West,47.59431,-122.15019,warehouse
+LOC011,Boston,MA,Northeast,42.30784,-70.844,customer_zone
+LOC012,New York,NY,Northeast,40.84145,-73.93911,customer_zone
+LOC013,Atlanta,GA,Southeast,33.59593,-84.18348,customer_zone
+LOC014,Miami,FL,Southeast,25.59725,-79.98704,customer_zone
+LOC015,Chicago,IL,Midwest,41.80418,-87.80564,customer_zone
+LOC016,Detroit,MI,Midwest,42.48322,-83.22193,customer_zone
+LOC017,Dallas,TX,Southwest,32.95729,-97.01025,customer_zone
+LOC018,Phoenix,AZ,Southwest,33.29183,-111.91079,customer_zone
+LOC019,Los Angeles,CA,West,34.25898,-118.43078,customer_zone
+LOC020,Seattle,WA,West,47.73007,-122.43549,customer_zone
+LOC021,Boston,MA,Northeast,42.41433,-71.10401,customer_zone
+LOC022,New York,NY,Northeast,40.52814,-74.08143,customer_zone
+LOC023,Atlanta,GA,Southeast,33.82572,-84.37321,customer_zone
+LOC024,Miami,FL,Southeast,25.96152,-80.13601,customer_zone
+LOC025,Chicago,IL,Midwest,42.04857,-87.6351,customer_zone
+LOC026,Detroit,MI,Midwest,42.34945,-82.99412,customer_zone
+LOC027,Dallas,TX,Southwest,32.66,-96.71586,customer_zone
+LOC028,Phoenix,AZ,Southwest,33.35485,-112.19391,customer_zone
+LOC029,Los Angeles,CA,West,33.87197,-118.03323,customer_zone
+LOC030,Seattle,WA,West,47.72076,-122.24239,customer_zone
+LOC031,Boston,MA,Northeast,42.18432,-71.2057,customer_zone
+LOC032,New York,NY,Northeast,40.62457,-74.21326,customer_zone

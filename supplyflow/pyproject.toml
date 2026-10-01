@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supplyflow"
+version = "0.1.0"
+description = "AWS serverless supply-chain analytics pipeline demo."
+requires-python = ">=3.11"
+dependencies = [
+]
+
+[project.optional-dependencies]
+dashboard = ["pandas>=2.2.0", "streamlit>=1.36.0", "plotly>=5.22.0"]
+aws = ["boto3>=1.34.0", "awswrangler>=3.9.0"]
+spark = ["pyspark>=3.5.0"]
+
+[project.scripts]
+supplyflow-generate = "supplyflow.synthetic_data:main"
+supplyflow-curate = "supplyflow.local_pipeline:main"
+supplyflow-dashboard = "supplyflow.dashboard:main"
+supplyflow-validate = "supplyflow.validate:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

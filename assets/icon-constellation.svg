@@ -1,0 +1,45 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated skill constellation</title>
+  <desc id="desc">Animated constellation of technology icons connected by pulsing data lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="30" fill="url(#bg)"/>
+
+  <g stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-dasharray="10 16" opacity="0.45">
+    <path d="M95 160L230 86L370 174L515 92L650 165L795 82L940 170L1105 102">
+      <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M230 86L365 74L515 92L795 82L1105 102">
+      <animate attributeName="stroke-dashoffset" from="0" to="120" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M95 160L370 174L650 165L940 170">
+      <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="4.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" filter="url(#glow)">
+    <text x="600" y="42" fill="#F8FAFC" font-size="26" font-weight="900">Skill Constellation</text>
+    <text x="600" y="68" fill="#94A3B8" font-size="14" font-weight="700">a moving map of the stack I build with</text>
+
+    <g transform="translate(95 160)"><circle r="38" fill="#172554" stroke="#60A5FA" stroke-width="2"/><text y="8" font-size="30">🐍</text><text y="62" fill="#DBEAFE" font-size="13" font-weight="900">Python</text><animateTransform attributeName="transform" type="translate" values="95 160;95 148;95 160" dur="2.7s" repeatCount="indefinite"/></g>
+    <g transform="translate(230 86)"><circle r="38" fill="#164E63" stroke="#22D3EE" stroke-width="2"/><text y="8" font-size="30">🗄️</text><text y="62" fill="#CFFAFE" font-size="13" font-weight="900">SQL</text><animateTransform attributeName="transform" type="translate" values="230 86;230 100;230 86" dur="3s" repeatCount="indefinite"/></g>
+    <g transform="translate(370 174)"><circle r="38" fill="#431407" stroke="#FB923C" stroke-width="2"/><text y="8" font-size="30">☁️</text><text y="62" fill="#FED7AA" font-size="13" font-weight="900">AWS</text><animateTransform attributeName="transform" type="translate" values="370 174;370 160;370 174" dur="3.2s" repeatCount="indefinite"/></g>
+    <g transform="translate(515 92)"><circle r="38" fill="#0C4A6E" stroke="#7DD3FC" stroke-width="2"/><text y="8" font-size="30">❄️</text><text y="62" fill="#E0F2FE" font-size="13" font-weight="900">Snowflake</text><animateTransform attributeName="transform" type="translate" values="515 92;515 106;515 92" dur="2.8s" repeatCount="indefinite"/></g>
+    <g transform="translate(650 165)"><circle r="38" fill="#052E16" stroke="#4ADE80" stroke-width="2"/><text y="8" font-size="30">🌀</text><text y="62" fill="#DCFCE7" font-size="13" font-weight="900">Airflow</text><animateTransform attributeName="transform" type="translate" values="650 165;650 151;650 165" dur="3.1s" repeatCount="indefinite"/></g>
+    <g transform="translate(795 82)"><circle r="38" fill="#450A0A" stroke="#F87171" stroke-width="2"/><text y="8" font-size="30">⚡</text><text y="62" fill="#FEE2E2" font-size="13" font-weight="900">Spark</text><animateTransform attributeName="transform" type="translate" values="795 82;795 96;795 82" dur="3.3s" repeatCount="indefinite"/></g>
+    <g transform="translate(940 170)"><circle r="38" fill="#422006" stroke="#FACC15" stroke-width="2"/><text y="8" font-size="30">📊</text><text y="62" fill="#FEF3C7" font-size="13" font-weight="900">BI</text><animateTransform attributeName="transform" type="translate" values="940 170;940 156;940 170" dur="2.9s" repeatCount="indefinite"/></g>
+    <g transform="translate(1105 102)"><circle r="38" fill="#4C1D95" stroke="#C084FC" stroke-width="2"/><text y="8" font-size="30">🤖</text><text y="62" fill="#F3E8FF" font-size="13" font-weight="900">AI</text><animateTransform attributeName="transform" type="translate" values="1105 102;1105 116;1105 102" dur="2.6s" repeatCount="indefinite"/></g>
+  </g>
+</svg>

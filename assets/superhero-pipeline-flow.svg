@@ -1,0 +1,39 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Superhero pipeline flow</title>
+  <desc id="desc">Animated recruiter-friendly data pipeline flow from raw data to dashboards and AI automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#172554"/>
+      <stop offset="1" stop-color="#581C87"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="90" y1="130" x2="1110" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="260" rx="30" fill="url(#bg)"/>
+  <text x="600" y="48" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="900" text-anchor="middle">Data Superpower Pipeline</text>
+  <text x="600" y="76" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">ingest → transform → model → visualize → automate</text>
+  <path d="M100 142 H1100" stroke="url(#flow)" stroke-width="7" stroke-linecap="round" opacity="0.58"/>
+  <path d="M100 142 H1100" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 28" opacity="0.9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-230" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  <g filter="url(#glow)">
+    <circle r="8" fill="#38BDF8"><animateMotion dur="4s" repeatCount="indefinite" path="M100 142 H1100"/></circle>
+    <circle r="7" fill="#A78BFA"><animateMotion dur="4s" begin="1.3s" repeatCount="indefinite" path="M100 142 H1100"/></circle>
+    <circle r="6" fill="#F472B6"><animateMotion dur="4s" begin="2.6s" repeatCount="indefinite" path="M100 142 H1100"/></circle>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(115 142)"><circle r="39" fill="#0F172A" stroke="#38BDF8" stroke-width="2"/><text y="7" font-size="28">🛰️</text><text y="66" fill="#E0F2FE" font-size="13" font-weight="900">Ingest</text><animateTransform attributeName="transform" type="translate" values="115 142;115 128;115 142" dur="2.6s" repeatCount="indefinite"/></g>
+    <g transform="translate(360 142)"><circle r="39" fill="#0F172A" stroke="#22D3EE" stroke-width="2"/><text y="7" font-size="28">⚙️</text><text y="66" fill="#CFFAFE" font-size="13" font-weight="900">Transform</text><animateTransform attributeName="transform" type="translate" values="360 142;360 156;360 142" dur="2.8s" repeatCount="indefinite"/></g>
+    <g transform="translate(600 142)"><circle r="43" fill="#111827" stroke="#A78BFA" stroke-width="2"/><text y="7" font-size="30">🏗️</text><text y="70" fill="#EDE9FE" font-size="13" font-weight="900">Model</text><animateTransform attributeName="transform" type="translate" values="600 142;600 126;600 142" dur="2.7s" repeatCount="indefinite"/></g>
+    <g transform="translate(840 142)"><circle r="39" fill="#0F172A" stroke="#FACC15" stroke-width="2"/><text y="7" font-size="28">📊</text><text y="66" fill="#FEF3C7" font-size="13" font-weight="900">Analyze</text><animateTransform attributeName="transform" type="translate" values="840 142;840 156;840 142" dur="2.9s" repeatCount="indefinite"/></g>
+    <g transform="translate(1085 142)"><circle r="39" fill="#0F172A" stroke="#F472B6" stroke-width="2"/><text y="7" font-size="28">🤖</text><text y="66" fill="#FCE7F3" font-size="13" font-weight="900">Automate</text><animateTransform attributeName="transform" type="translate" values="1085 142;1085 128;1085 142" dur="2.5s" repeatCount="indefinite"/></g>
+  </g>
+</svg>

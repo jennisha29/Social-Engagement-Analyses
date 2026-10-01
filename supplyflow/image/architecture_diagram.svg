@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">SupplyFlow AWS Architecture</title>
+  <desc id="desc">Serverless AWS data pipeline from S3 raw data to Lambda, Glue, Redshift, and Power BI.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .box { fill: #ffffff; stroke: #2563eb; stroke-width: 2; rx: 14; }
+      .accent { fill: #eff6ff; stroke: #0284c7; stroke-width: 2; rx: 14; }
+      .warehouse { fill: #fef3c7; stroke: #d97706; stroke-width: 2; rx: 14; }
+      .bi { fill: #ecfdf5; stroke: #059669; stroke-width: 2; rx: 14; }
+      .label { font: 700 24px Arial, sans-serif; fill: #0f172a; }
+      .small { font: 16px Arial, sans-serif; fill: #334155; }
+      .arrow { stroke: #475569; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#475569" />
+    </marker>
+  </defs>
+  <rect class="bg" width="1280" height="640" />
+  <text x="64" y="70" class="label">SupplyFlow Supply Chain Data Pipeline</text>
+  <text x="64" y="100" class="small">S3 to Redshift snowflake warehouse with Power BI analytics</text>
+
+  <rect x="70" y="190" width="180" height="120" class="box" />
+  <text x="100" y="238" class="label">Sources</text>
+  <text x="100" y="268" class="small">Orders, shipments</text>
+  <text x="100" y="292" class="small">products, locations</text>
+
+  <rect x="310" y="190" width="180" height="120" class="accent" />
+  <text x="352" y="238" class="label">S3 Raw</text>
+  <text x="340" y="268" class="small">Landing zone</text>
+  <text x="340" y="292" class="small">CSV extracts</text>
+
+  <rect x="550" y="190" width="180" height="120" class="box" />
+  <text x="585" y="238" class="label">Lambda</text>
+  <text x="580" y="268" class="small">S3 event router</text>
+  <text x="580" y="292" class="small">Starts Glue job</text>
+
+  <rect x="790" y="190" width="180" height="120" class="accent" />
+  <text x="835" y="238" class="label">Glue</text>
+  <text x="820" y="268" class="small">PySpark ETL</text>
+  <text x="820" y="292" class="small">KPI transforms</text>
+
+  <rect x="1030" y="190" width="180" height="120" class="warehouse" />
+  <text x="1072" y="238" class="label">S3 Curated</text>
+  <text x="1060" y="268" class="small">Warehouse Parquet</text>
+  <text x="1060" y="292" class="small">Nine tables</text>
+
+  <rect x="430" y="410" width="190" height="120" class="warehouse" />
+  <text x="476" y="458" class="label">Redshift</text>
+  <text x="460" y="488" class="small">Snowflake schema</text>
+  <text x="460" y="512" class="small">Analytics views</text>
+
+  <rect x="710" y="410" width="190" height="120" class="bi" />
+  <text x="755" y="458" class="label">Power BI</text>
+  <text x="740" y="488" class="small">Profitability</text>
+  <text x="740" y="512" class="small">Carrier and risk</text>
+
+  <path d="M250 250 H310" class="arrow" />
+  <path d="M490 250 H550" class="arrow" />
+  <path d="M730 250 H790" class="arrow" />
+  <path d="M970 250 H1030" class="arrow" />
+  <path d="M1120 310 C1120 390 620 350 560 410" class="arrow" />
+  <path d="M620 470 H710" class="arrow" />
+</svg>

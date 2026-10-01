@@ -1,0 +1,16 @@
+destination_region,service_level,avg_risk,late_rate
+Midwest,expedited,28.7706,0.3119
+Midwest,same_day,33.175,0.275
+Midwest,standard,23.122,0.338
+Northeast,expedited,32.5549,0.3873
+Northeast,same_day,38.6081,0.3514
+Northeast,standard,24.4729,0.3671
+Southeast,expedited,34.7285,0.4172
+Southeast,same_day,38.0889,0.3556
+Southeast,standard,28.3763,0.4425
+Southwest,expedited,31.4812,0.3534
+Southwest,same_day,42.1957,0.3913
+Southwest,standard,23.8036,0.3527
+West,expedited,32.907,0.3721
+West,same_day,34.725,0.3
+West,standard,25.2028,0.3776

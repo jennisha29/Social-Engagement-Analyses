@@ -1,0 +1,106 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Interstellar data command center</title>
+  <desc id="desc">Animated interstellar background with stars, nebula clouds, scanning beams, and data command center panels.</desc>
+  <defs>
+    <radialGradient id="nebulaA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(320 150) rotate(35) scale(340 180)">
+      <stop stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#7C3AED" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebulaB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(875 225) rotate(-25) scale(350 190)">
+      <stop stop-color="#F472B6" stop-opacity="0.48"/>
+      <stop offset="0.6" stop-color="#2563EB" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#38BDF8" stroke-opacity="0.12"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="34" fill="url(#horizon)"/>
+  <rect width="1200" height="420" rx="34" fill="url(#nebulaA)">
+    <animate attributeName="opacity" values="0.45;0.9;0.45" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="1200" height="420" rx="34" fill="url(#nebulaB)">
+    <animate attributeName="opacity" values="0.85;0.38;0.85" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="1200" height="420" rx="34" fill="url(#grid)">
+    <animate attributeName="opacity" values="0.25;0.55;0.25" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g opacity="0.9" filter="url(#glow)">
+    <circle cx="80" cy="80" r="2" fill="#E0F2FE"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="40" r="1.7" fill="#F5D0FE"><animate attributeName="opacity" values="1;0.15;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="315" cy="75" r="2.2" fill="#BAE6FD"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="515" cy="38" r="1.5" fill="#DDD6FE"><animate attributeName="opacity" values="1;0.25;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="72" r="2.3" fill="#E0F2FE"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="975" cy="48" r="1.8" fill="#FBCFE8"><animate attributeName="opacity" values="1;0.22;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="92" r="2" fill="#C4B5FD"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1060" cy="310" r="2.2" fill="#BAE6FD"><animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="130" cy="320" r="2" fill="#F5D0FE"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g filter="url(#glow)">
+    <path d="M70 282 C230 178 370 340 540 224 S850 118 1130 250" stroke="#E0F2FE" stroke-width="3" stroke-linecap="round" stroke-dasharray="14 24" opacity="0.82">
+      <animate attributeName="stroke-dashoffset" from="0" to="-190" dur="3.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M95 330 C280 230 400 360 585 285 S870 205 1105 325" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 18" opacity="0.55">
+      <animate attributeName="stroke-dashoffset" from="0" to="160" dur="5.2s" repeatCount="indefinite"/>
+    </path>
+    <circle r="7" fill="#38BDF8">
+      <animateMotion dur="5.5s" repeatCount="indefinite" path="M70 282 C230 178 370 340 540 224 S850 118 1130 250"/>
+    </circle>
+    <circle r="6" fill="#F472B6">
+      <animateMotion dur="5.5s" begin="1.8s" repeatCount="indefinite" path="M70 282 C230 178 370 340 540 224 S850 118 1130 250"/>
+    </circle>
+    <circle r="5" fill="#A78BFA">
+      <animateMotion dur="5.5s" begin="3.6s" repeatCount="indefinite" path="M70 282 C230 178 370 340 540 224 S850 118 1130 250"/>
+    </circle>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="600" y="116" text-anchor="middle" fill="#FFFFFF" font-size="42" font-weight="900" letter-spacing="1.4">INTERSTELLAR DATA COMMAND</text>
+    <text x="600" y="152" text-anchor="middle" fill="#BAE6FD" font-size="18" font-weight="700">orchestrating pipelines • analytics • cloud platforms • intelligent automation</text>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(210 250)">
+      <rect x="-92" y="-44" width="184" height="88" rx="20" fill="#020617" fill-opacity="0.78" stroke="#38BDF8"/>
+      <text y="-8" fill="#E0F2FE" font-size="20" font-weight="900">INGEST</text>
+      <text y="19" fill="#93C5FD" font-size="13">APIs • files • streams</text>
+      <animateTransform attributeName="transform" type="translate" values="210 250;210 238;210 250" dur="3s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(445 250)">
+      <rect x="-92" y="-44" width="184" height="88" rx="20" fill="#020617" fill-opacity="0.78" stroke="#A78BFA"/>
+      <text y="-8" fill="#EDE9FE" font-size="20" font-weight="900">TRANSFORM</text>
+      <text y="19" fill="#C4B5FD" font-size="13">Spark • dbt • SQL</text>
+      <animateTransform attributeName="transform" type="translate" values="445 250;445 264;445 250" dur="3.2s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(680 250)">
+      <rect x="-92" y="-44" width="184" height="88" rx="20" fill="#020617" fill-opacity="0.78" stroke="#F472B6"/>
+      <text y="-8" fill="#FCE7F3" font-size="20" font-weight="900">INTELLIGENCE</text>
+      <text y="19" fill="#F9A8D4" font-size="13">ML • RAG • agents</text>
+      <animateTransform attributeName="transform" type="translate" values="680 250;680 238;680 250" dur="3.1s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(915 250)">
+      <rect x="-92" y="-44" width="184" height="88" rx="20" fill="#020617" fill-opacity="0.78" stroke="#22D3EE"/>
+      <text y="-8" fill="#CFFAFE" font-size="20" font-weight="900">IMPACT</text>
+      <text y="19" fill="#A5F3FC" font-size="13">dashboards • decisions</text>
+      <animateTransform attributeName="transform" type="translate" values="915 250;915 264;915 250" dur="2.9s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <rect x="42" y="34" width="1116" height="352" rx="26" stroke="#FFFFFF" stroke-opacity="0.14"/>
+</svg>

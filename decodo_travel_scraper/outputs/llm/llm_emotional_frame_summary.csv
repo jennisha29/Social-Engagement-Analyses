@@ -1,0 +1,8 @@
+llm_content_lane,llm_emotional_frame,post_count,avg_platform_percentile,avg_total_engagements,avg_clarity,avg_shareability,avg_risk,avg_visual
+,accountability,22,57.4,21.4,4.3,3.4,3.8,3.5
+,informational,40,38.9,11.4,4.7,3.0,3.1,2.1
+,neutral,25,57.2,18.3,3.2,2.8,1.8,4.3
+,practical,11,65.2,25.7,4.5,3.3,2.1,5.0
+,surprising,4,38.2,4.5,3.5,3.0,2.5,4.2
+,urgent,3,64.8,28.0,4.7,3.7,3.7,4.0
+,values_based,7,73.0,20.7,4.6,3.9,2.3,4.7

@@ -1,0 +1,7 @@
+carrier_id,carrier_name,mode,contract_tier,base_cost_per_mile
+CAR001,Arrow Freight,truckload,gold,2.15
+CAR002,BlueRiver Logistics,ltl,silver,1.74
+CAR003,Northstar Air,air,gold,5.85
+CAR004,Atlas Intermodal,intermodal,bronze,1.52
+CAR005,Pioneer Express,truckload,silver,2.02
+CAR006,MetroLink Freight,ltl,bronze,1.61

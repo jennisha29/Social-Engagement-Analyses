@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_STORAGE_ACCOUNT": "tweetpulsejp260621",
+    "AZURE_STORAGE_CONTAINER": "tweetpulse-raw",
+    "BLUESKY_MAX_POSTS": "500",
+    "BLUESKY_BATCH_SIZE": "100",
+    "BLUESKY_JETSTREAM_URL": "wss://jetstream2.us-east.bsky.network/subscribe?wantedCollections=app.bsky.feed.post"
+  }
+}

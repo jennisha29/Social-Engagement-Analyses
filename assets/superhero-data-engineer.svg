@@ -1,0 +1,132 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jennisha Martin superhero data engineer poster</title>
+  <desc id="desc">Animated superhero-inspired data engineering poster with Git City skyline, glowing Python energy, moving pipeline streams, and floating technology icons.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#3B0764"/>
+    </linearGradient>
+    <radialGradient id="pythonGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(725 128) rotate(90) scale(105)">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="0.45" stop-color="#F97316" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cape" x1="470" y1="250" x2="280" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.55" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#BE123C"/>
+    </linearGradient>
+    <linearGradient id="suit" x1="520" y1="188" x2="662" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="0.55" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#38BDF8" stroke-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="520" rx="36" fill="url(#sky)"/>
+  <rect width="1200" height="520" rx="36" fill="url(#grid)">
+    <animate attributeName="opacity" values="0.22;0.5;0.22" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="725" cy="128" r="140" fill="url(#pythonGlow)">
+    <animate attributeName="r" values="120;155;120" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <g opacity="0.75" filter="url(#glow)">
+    <circle cx="86" cy="78" r="2" fill="#E0F2FE"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="178" cy="36" r="2" fill="#F5D0FE"><animate attributeName="opacity" values="1;0.18;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="312" cy="92" r="2.4" fill="#BAE6FD"><animate attributeName="opacity" values="0.22;1;0.22" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="62" r="2" fill="#FBCFE8"><animate attributeName="opacity" values="1;0.22;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1085" cy="105" r="2.5" fill="#DDD6FE"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g opacity="0.72">
+    <rect x="34" y="328" width="70" height="126" rx="8" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4"/>
+    <rect x="126" y="285" width="86" height="169" rx="8" fill="#111827" stroke="#A78BFA" stroke-opacity="0.36"/>
+    <rect x="238" y="250" width="94" height="204" rx="8" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4"/>
+    <rect x="862" y="258" width="96" height="196" rx="8" fill="#111827" stroke="#F472B6" stroke-opacity="0.36"/>
+    <rect x="982" y="296" width="78" height="158" rx="8" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4"/>
+    <rect x="1085" y="236" width="82" height="218" rx="8" fill="#111827" stroke="#A78BFA" stroke-opacity="0.38"/>
+  </g>
+
+  <g stroke="#22D3EE" stroke-width="3" stroke-linecap="round" opacity="0.75" filter="url(#glow)">
+    <path d="M70 352 C190 280 270 388 390 322 S605 242 742 320 S966 390 1130 300" stroke-dasharray="12 22">
+      <animate attributeName="stroke-dashoffset" from="0" to="-180" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <circle r="6" fill="#38BDF8">
+      <animateMotion dur="4.8s" repeatCount="indefinite" path="M70 352 C190 280 270 388 390 322 S605 242 742 320 S966 390 1130 300"/>
+    </circle>
+    <circle r="5" fill="#F472B6">
+      <animateMotion dur="4.8s" begin="1.6s" repeatCount="indefinite" path="M70 352 C190 280 270 388 390 322 S605 242 742 320 S966 390 1130 300"/>
+    </circle>
+    <circle r="5" fill="#A78BFA">
+      <animateMotion dur="4.8s" begin="3.2s" repeatCount="indefinite" path="M70 352 C190 280 270 388 390 322 S605 242 742 320 S966 390 1130 300"/>
+    </circle>
+  </g>
+
+  <g>
+    <path d="M508 226 C430 268 355 368 286 490 C410 442 488 424 574 424 C570 330 552 266 508 226Z" fill="url(#cape)" opacity="0.95">
+      <animate attributeName="d" values="M508 226 C430 268 355 368 286 490 C410 442 488 424 574 424 C570 330 552 266 508 226Z;M508 226 C414 280 376 350 262 480 C398 454 500 406 574 424 C568 330 550 266 508 226Z;M508 226 C430 268 355 368 286 490 C410 442 488 424 574 424 C570 330 552 266 508 226Z" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+    <ellipse cx="560" cy="240" rx="64" ry="84" fill="url(#suit)" stroke="#38BDF8" stroke-width="3"/>
+    <path d="M517 260 L560 198 L604 260 L580 408 H540 Z" fill="#020617" opacity="0.42"/>
+    <path d="M530 278 H590 M535 310 H585 M540 342 H580" stroke="#67E8F9" stroke-width="2" opacity="0.6" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.28;0.95;0.28" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="560" cy="150" r="48" fill="#A16207" stroke="#FDE68A" stroke-width="3"/>
+    <path d="M518 132 C532 82 589 82 604 132 C586 118 540 118 518 132Z" fill="#111827"/>
+    <circle cx="543" cy="148" r="4" fill="#020617"/>
+    <circle cx="577" cy="148" r="4" fill="#020617"/>
+    <path d="M544 170 C554 180 570 180 580 170" stroke="#451A03" stroke-width="3" stroke-linecap="round"/>
+    <path d="M611 215 C654 174 674 147 705 126" stroke="#1E40AF" stroke-width="18" stroke-linecap="round"/>
+    <path d="M505 220 C458 252 430 272 394 298" stroke="#1E40AF" stroke-width="18" stroke-linecap="round"/>
+    <path d="M520 412 H600 L626 478 H494 Z" fill="#020617"/>
+  </g>
+
+  <g filter="url(#glow)" font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <circle cx="725" cy="128" r="52" fill="#111827" stroke="#FDE68A" stroke-width="3"/>
+    <text x="725" y="138" font-size="45">🐍</text>
+    <path d="M670 108 C695 72 755 72 780 108" stroke="#F97316" stroke-width="5" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M682 172 C705 200 750 200 772 172" stroke="#F97316" stroke-width="5" stroke-linecap="round">
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" filter="url(#glow)">
+    <text x="600" y="62" fill="#FFFFFF" font-size="44" font-weight="900" letter-spacing="1">JENNISHA MARTIN</text>
+    <text x="600" y="98" fill="#BAE6FD" font-size="18" font-weight="800">Data Engineer • Data Analyst • Applied AI Enthusiast</text>
+    <text x="600" y="482" fill="#F8FAFC" font-size="20" font-weight="900">Pipeline power. Analytics clarity. AI impact.</text>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle" filter="url(#glow)">
+    <g transform="translate(392 130)">
+      <text y="0" font-size="28">⚛️</text><text y="30" fill="#A5F3FC" font-size="12" font-weight="800">React</text>
+      <animateTransform attributeName="transform" type="translate" values="392 130;392 104;392 130" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(330 205)">
+      <text y="0" font-size="28">☁️</text><text y="30" fill="#FDBA74" font-size="12" font-weight="800">AWS</text>
+      <animateTransform attributeName="transform" type="translate" values="330 205;330 175;330 205" dur="4.6s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(815 210)">
+      <text y="0" font-size="28">🐳</text><text y="30" fill="#BFDBFE" font-size="12" font-weight="800">Docker</text>
+      <animateTransform attributeName="transform" type="translate" values="815 210;815 180;815 210" dur="4.4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(870 130)">
+      <text y="0" font-size="28">❄️</text><text y="30" fill="#E0F2FE" font-size="12" font-weight="800">Snowflake</text>
+      <animateTransform attributeName="transform" type="translate" values="870 130;870 104;870 130" dur="4.2s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

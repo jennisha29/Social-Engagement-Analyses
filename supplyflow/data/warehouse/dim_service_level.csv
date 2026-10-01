@@ -1,0 +1,4 @@
+service_level_key,service_level,promised_days
+1,standard,6
+2,expedited,3
+3,same_day,1
